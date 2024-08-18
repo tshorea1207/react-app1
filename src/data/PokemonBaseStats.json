@@ -1,0 +1,3743 @@
+[
+  {
+    "Id": 1,
+    "Name": "Bulbasaur",
+    "SleepType": "dozing",
+    "Type": "grass",
+    "ExpertOf": "Ingredients",
+    "Skill": "Ingredient Magnet S",
+    "Fp": 5,
+    "Frequency": 4400,
+    "IngredientRatio": 25.7,
+    "SkillRatio": 1.9,
+    "Ancestor": 1,
+    "EvolutionCount": 0,
+    "EvolutionLeft": 2,
+    "HasEvolution": "false",
+    "CarryLimit": 11,
+    "Ingredients1": [{ "Ingredient": "honey", "Amount": 2, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "honey", "Amount": 5, "Order": "A" },
+      { "Ingredient": "tomato", "Amount": 4, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "honey", "Amount": 7, "Order": "A" },
+      { "Ingredient": "tomato", "Amount": 7, "Order": "B" },
+      { "Ingredient": "potato", "Amount": 6, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 2,
+    "Name": "Ivysaur",
+    "SleepType": "dozing",
+    "Type": "grass",
+    "ExpertOf": "Ingredients",
+    "Skill": "Ingredient Magnet S",
+    "Fp": 12,
+    "Frequency": 3300,
+    "IngredientRatio": 25.5,
+    "SkillRatio": 1.9,
+    "Ancestor": 1,
+    "EvolutionCount": 1,
+    "EvolutionLeft": 1,
+    "HasEvolution": "false",
+    "CarryLimit": 14,
+    "Ingredients1": [{ "Ingredient": "honey", "Amount": 2, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "honey", "Amount": 5, "Order": "A" },
+      { "Ingredient": "tomato", "Amount": 4, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "honey", "Amount": 7, "Order": "A" },
+      { "Ingredient": "tomato", "Amount": 7, "Order": "B" },
+      { "Ingredient": "potato", "Amount": 6, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 3,
+    "Name": "Venusaur",
+    "SleepType": "dozing",
+    "Type": "grass",
+    "ExpertOf": "Ingredients",
+    "Skill": "Ingredient Magnet S",
+    "Fp": 20,
+    "Frequency": 2800,
+    "IngredientRatio": 26.6,
+    "SkillRatio": 2.1,
+    "Ancestor": 1,
+    "EvolutionCount": 2,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 17,
+    "Ingredients1": [{ "Ingredient": "honey", "Amount": 2, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "honey", "Amount": 5, "Order": "A" },
+      { "Ingredient": "tomato", "Amount": 4, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "honey", "Amount": 7, "Order": "A" },
+      { "Ingredient": "tomato", "Amount": 7, "Order": "B" },
+      { "Ingredient": "potato", "Amount": 6, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 10,
+    "Name": "Caterpie",
+    "SleepType": "dozing",
+    "Type": "bug",
+    "ExpertOf": "Berries",
+    "Skill": "Ingredient Magnet S",
+    "Fp": 5,
+    "Frequency": 4400,
+    "IngredientRatio": 17.9,
+    "SkillRatio": 0.8,
+    "Ancestor": 10,
+    "EvolutionCount": 0,
+    "EvolutionLeft": 2,
+    "HasEvolution": "false",
+    "CarryLimit": 11,
+    "Ingredients1": [{ "Ingredient": "honey", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "honey", "Amount": 2, "Order": "A" },
+      { "Ingredient": "tomato", "Amount": 2, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "honey", "Amount": 4, "Order": "A" },
+      { "Ingredient": "tomato", "Amount": 3, "Order": "B" },
+      { "Ingredient": "soy", "Amount": 4, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 11,
+    "Name": "Metapod",
+    "SleepType": "dozing",
+    "Type": "bug",
+    "ExpertOf": "Berries",
+    "Skill": "Ingredient Magnet S",
+    "Fp": 7,
+    "Frequency": 4200,
+    "IngredientRatio": 20.8,
+    "SkillRatio": 1.8,
+    "Ancestor": 10,
+    "EvolutionCount": 1,
+    "EvolutionLeft": 1,
+    "HasEvolution": "false",
+    "CarryLimit": 13,
+    "Ingredients1": [{ "Ingredient": "honey", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "honey", "Amount": 2, "Order": "A" },
+      { "Ingredient": "tomato", "Amount": 2, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "honey", "Amount": 4, "Order": "A" },
+      { "Ingredient": "tomato", "Amount": 3, "Order": "B" },
+      { "Ingredient": "soy", "Amount": 4, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 12,
+    "Name": "Butterfree",
+    "SleepType": "dozing",
+    "Type": "bug",
+    "ExpertOf": "Berries",
+    "Skill": "Ingredient Magnet S",
+    "Fp": 15,
+    "Frequency": 2600,
+    "IngredientRatio": 19.7,
+    "SkillRatio": 1.4,
+    "Ancestor": 10,
+    "EvolutionCount": 2,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 21,
+    "Ingredients1": [{ "Ingredient": "honey", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "honey", "Amount": 2, "Order": "A" },
+      { "Ingredient": "tomato", "Amount": 2, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "honey", "Amount": 4, "Order": "A" },
+      { "Ingredient": "tomato", "Amount": 3, "Order": "B" },
+      { "Ingredient": "soy", "Amount": 4, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 23,
+    "Name": "Ekans",
+    "SleepType": "dozing",
+    "Type": "poison",
+    "ExpertOf": "Berries",
+    "Skill": "Charge Energy S",
+    "Fp": 5,
+    "Frequency": 5000,
+    "IngredientRatio": 23.5,
+    "SkillRatio": 3.3,
+    "Ancestor": 23,
+    "EvolutionCount": 0,
+    "EvolutionLeft": 1,
+    "HasEvolution": "false",
+    "CarryLimit": 10,
+    "Ingredients1": [{ "Ingredient": "sausage", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "sausage", "Amount": 2, "Order": "A" },
+      { "Ingredient": "egg", "Amount": 2, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "sausage", "Amount": 4, "Order": "A" },
+      { "Ingredient": "egg", "Amount": 3, "Order": "B" },
+      { "Ingredient": "herb", "Amount": 3, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 24,
+    "Name": "Arbok",
+    "SleepType": "dozing",
+    "Type": "poison",
+    "ExpertOf": "Berries",
+    "Skill": "Charge Energy S",
+    "Fp": 12,
+    "Frequency": 3700,
+    "IngredientRatio": 26.4,
+    "SkillRatio": 5.7,
+    "Ancestor": 23,
+    "EvolutionCount": 1,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 14,
+    "Ingredients1": [{ "Ingredient": "sausage", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "sausage", "Amount": 2, "Order": "A" },
+      { "Ingredient": "egg", "Amount": 2, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "sausage", "Amount": 4, "Order": "A" },
+      { "Ingredient": "egg", "Amount": 3, "Order": "B" },
+      { "Ingredient": "herb", "Amount": 3, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 54,
+    "Name": "Psyduck",
+    "SleepType": "dozing",
+    "Type": "water",
+    "ExpertOf": "Skills",
+    "Skill": "Charge Strength S (Random)",
+    "Fp": 5,
+    "Frequency": 5400,
+    "IngredientRatio": 13.6,
+    "SkillRatio": 12.6,
+    "Ancestor": 54,
+    "EvolutionCount": 0,
+    "EvolutionLeft": 1,
+    "HasEvolution": "false",
+    "CarryLimit": 8,
+    "Ingredients1": [{ "Ingredient": "cacao", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "cacao", "Amount": 2, "Order": "A" },
+      { "Ingredient": "apple", "Amount": 4, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "cacao", "Amount": 4, "Order": "A" },
+      { "Ingredient": "apple", "Amount": 6, "Order": "B" },
+      { "Ingredient": "sausage", "Amount": 5, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 56,
+    "Name": "Mankey",
+    "SleepType": "dozing",
+    "Type": "fighting",
+    "ExpertOf": "Berries",
+    "Skill": "Charge Strength S (Random)",
+    "Fp": 5,
+    "Frequency": 4200,
+    "IngredientRatio": 19.7,
+    "SkillRatio": 2.2,
+    "Ancestor": 56,
+    "EvolutionCount": 0,
+    "EvolutionLeft": 1,
+    "HasEvolution": "false",
+    "CarryLimit": 12,
+    "Ingredients1": [{ "Ingredient": "sausage", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "sausage", "Amount": 2, "Order": "A" },
+      { "Ingredient": "mushroom", "Amount": 1, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "sausage", "Amount": 4, "Order": "A" },
+      { "Ingredient": "mushroom", "Amount": 2, "Order": "B" },
+      { "Ingredient": "honey", "Amount": 4, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 57,
+    "Name": "Primeape",
+    "SleepType": "dozing",
+    "Type": "fighting",
+    "ExpertOf": "Berries",
+    "Skill": "Charge Strength S (Random)",
+    "Fp": 12,
+    "Frequency": 2800,
+    "IngredientRatio": 20,
+    "SkillRatio": 2.4,
+    "Ancestor": 56,
+    "EvolutionCount": 1,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 17,
+    "Ingredients1": [{ "Ingredient": "sausage", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "sausage", "Amount": 2, "Order": "A" },
+      { "Ingredient": "mushroom", "Amount": 1, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "sausage", "Amount": 4, "Order": "A" },
+      { "Ingredient": "mushroom", "Amount": 2, "Order": "B" },
+      { "Ingredient": "honey", "Amount": 4, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 69,
+    "Name": "Bellsprout",
+    "SleepType": "dozing",
+    "Type": "grass",
+    "ExpertOf": "Ingredients",
+    "Skill": "Charge Energy S",
+    "Fp": 5,
+    "Frequency": 5200,
+    "IngredientRatio": 23.3,
+    "SkillRatio": 3.9,
+    "Ancestor": 69,
+    "EvolutionCount": 0,
+    "EvolutionLeft": 2,
+    "HasEvolution": "false",
+    "CarryLimit": 8,
+    "Ingredients1": [{ "Ingredient": "tomato", "Amount": 2, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "tomato", "Amount": 5, "Order": "A" },
+      { "Ingredient": "potato", "Amount": 4, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "tomato", "Amount": 7, "Order": "A" },
+      { "Ingredient": "potato", "Amount": 6, "Order": "B" },
+      { "Ingredient": "leek", "Amount": 4, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 70,
+    "Name": "Weepinbell",
+    "SleepType": "dozing",
+    "Type": "grass",
+    "ExpertOf": "Ingredients",
+    "Skill": "Charge Energy S",
+    "Fp": 12,
+    "Frequency": 3800,
+    "IngredientRatio": 23.5,
+    "SkillRatio": 4,
+    "Ancestor": 69,
+    "EvolutionCount": 1,
+    "EvolutionLeft": 1,
+    "HasEvolution": "false",
+    "CarryLimit": 12,
+    "Ingredients1": [{ "Ingredient": "tomato", "Amount": 2, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "tomato", "Amount": 5, "Order": "A" },
+      { "Ingredient": "potato", "Amount": 4, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "tomato", "Amount": 7, "Order": "A" },
+      { "Ingredient": "potato", "Amount": 6, "Order": "B" },
+      { "Ingredient": "leek", "Amount": 4, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 71,
+    "Name": "Victreebel",
+    "SleepType": "dozing",
+    "Type": "grass",
+    "ExpertOf": "Ingredients",
+    "Skill": "Charge Energy S",
+    "Fp": 20,
+    "Frequency": 2800,
+    "IngredientRatio": 23.3,
+    "SkillRatio": 3.9,
+    "Ancestor": 69,
+    "EvolutionCount": 2,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 17,
+    "Ingredients1": [{ "Ingredient": "tomato", "Amount": 2, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "tomato", "Amount": 5, "Order": "A" },
+      { "Ingredient": "potato", "Amount": 4, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "tomato", "Amount": 7, "Order": "A" },
+      { "Ingredient": "potato", "Amount": 6, "Order": "B" },
+      { "Ingredient": "leek", "Amount": 4, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 92,
+    "Name": "Gastly",
+    "SleepType": "dozing",
+    "Type": "ghost",
+    "ExpertOf": "Ingredients",
+    "Skill": "Charge Strength S (Random)",
+    "Fp": 5,
+    "Frequency": 3800,
+    "IngredientRatio": 14.4,
+    "SkillRatio": 1.5,
+    "Ancestor": 92,
+    "EvolutionCount": 0,
+    "EvolutionLeft": 2,
+    "HasEvolution": "false",
+    "CarryLimit": 10,
+    "Ingredients1": [{ "Ingredient": "herb", "Amount": 2, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "herb", "Amount": 5, "Order": "A" },
+      { "Ingredient": "mushroom", "Amount": 4, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "herb", "Amount": 7, "Order": "A" },
+      { "Ingredient": "mushroom", "Amount": 6, "Order": "B" },
+      { "Ingredient": "oil", "Amount": 8, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 93,
+    "Name": "Haunter",
+    "SleepType": "dozing",
+    "Type": "ghost",
+    "ExpertOf": "Ingredients",
+    "Skill": "Charge Strength S (Random)",
+    "Fp": 12,
+    "Frequency": 3000,
+    "IngredientRatio": 15.7,
+    "SkillRatio": 2.2,
+    "Ancestor": 92,
+    "EvolutionCount": 1,
+    "EvolutionLeft": 1,
+    "HasEvolution": "false",
+    "CarryLimit": 14,
+    "Ingredients1": [{ "Ingredient": "herb", "Amount": 2, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "herb", "Amount": 5, "Order": "A" },
+      { "Ingredient": "mushroom", "Amount": 4, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "herb", "Amount": 7, "Order": "A" },
+      { "Ingredient": "mushroom", "Amount": 6, "Order": "B" },
+      { "Ingredient": "oil", "Amount": 8, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 94,
+    "Name": "Gengar",
+    "SleepType": "dozing",
+    "Type": "ghost",
+    "ExpertOf": "Ingredients",
+    "Skill": "Charge Strength S (Random)",
+    "Fp": 22,
+    "Frequency": 2200,
+    "IngredientRatio": 16.1,
+    "SkillRatio": 2.4,
+    "Ancestor": 92,
+    "EvolutionCount": 2,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 18,
+    "Ingredients1": [{ "Ingredient": "herb", "Amount": 2, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "herb", "Amount": 5, "Order": "A" },
+      { "Ingredient": "mushroom", "Amount": 4, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "herb", "Amount": 7, "Order": "A" },
+      { "Ingredient": "mushroom", "Amount": 6, "Order": "B" },
+      { "Ingredient": "oil", "Amount": 8, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 127,
+    "Name": "Pinsir",
+    "SleepType": "dozing",
+    "Type": "bug",
+    "ExpertOf": "Ingredients",
+    "Skill": "Charge Strength S",
+    "Fp": 16,
+    "Frequency": 2400,
+    "IngredientRatio": 21.6,
+    "SkillRatio": 3.1,
+    "Ancestor": null,
+    "EvolutionCount": -1,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 24,
+    "Ingredients1": [{ "Ingredient": "honey", "Amount": 2, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "honey", "Amount": 5, "Order": "A" },
+      { "Ingredient": "apple", "Amount": 5, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "honey", "Amount": 7, "Order": "A" },
+      { "Ingredient": "apple", "Amount": 8, "Order": "B" },
+      { "Ingredient": "sausage", "Amount": 7, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 147,
+    "Name": "Dratini",
+    "SleepType": "dozing",
+    "Type": "dragon",
+    "ExpertOf": "Ingredients",
+    "Skill": "Charge Energy S",
+    "Fp": 5,
+    "Frequency": 5000,
+    "IngredientRatio": 25,
+    "SkillRatio": 2,
+    "Ancestor": 147,
+    "EvolutionCount": 0,
+    "EvolutionLeft": 2,
+    "HasEvolution": "false",
+    "CarryLimit": 9,
+    "Ingredients1": [{ "Ingredient": "herb", "Amount": 2, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "herb", "Amount": 5, "Order": "A" },
+      { "Ingredient": "corn", "Amount": 4, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "herb", "Amount": 7, "Order": "A" },
+      { "Ingredient": "corn", "Amount": 7, "Order": "B" },
+      { "Ingredient": "oil", "Amount": 8, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 148,
+    "Name": "Dragonair",
+    "SleepType": "dozing",
+    "Type": "dragon",
+    "ExpertOf": "Ingredients",
+    "Skill": "Charge Energy S",
+    "Fp": 12,
+    "Frequency": 3800,
+    "IngredientRatio": 26.2,
+    "SkillRatio": 2.5,
+    "Ancestor": 147,
+    "EvolutionCount": 1,
+    "EvolutionLeft": 1,
+    "HasEvolution": "false",
+    "CarryLimit": 12,
+    "Ingredients1": [{ "Ingredient": "herb", "Amount": 2, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "herb", "Amount": 5, "Order": "A" },
+      { "Ingredient": "corn", "Amount": 4, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "herb", "Amount": 7, "Order": "A" },
+      { "Ingredient": "corn", "Amount": 7, "Order": "B" },
+      { "Ingredient": "oil", "Amount": 8, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 149,
+    "Name": "Dragonite",
+    "SleepType": "dozing",
+    "Type": "dragon",
+    "ExpertOf": "Ingredients",
+    "Skill": "Charge Energy S",
+    "Fp": 25,
+    "Frequency": 2600,
+    "IngredientRatio": 26.4,
+    "SkillRatio": 2.6,
+    "Ancestor": 147,
+    "EvolutionCount": 2,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 20,
+    "Ingredients1": [{ "Ingredient": "herb", "Amount": 2, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "herb", "Amount": 5, "Order": "A" },
+      { "Ingredient": "corn", "Amount": 4, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "herb", "Amount": 7, "Order": "A" },
+      { "Ingredient": "corn", "Amount": 7, "Order": "B" },
+      { "Ingredient": "oil", "Amount": 8, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 152,
+    "Name": "Chikorita",
+    "SleepType": "dozing",
+    "Type": "grass",
+    "ExpertOf": "Berries",
+    "Skill": "Charge Strength S (Random)",
+    "Fp": 5,
+    "Frequency": 4400,
+    "IngredientRatio": 16.9,
+    "SkillRatio": 3.9,
+    "Ancestor": 152,
+    "EvolutionCount": 0,
+    "EvolutionLeft": 2,
+    "HasEvolution": "false",
+    "CarryLimit": 12,
+    "Ingredients1": [{ "Ingredient": "cacao", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "cacao", "Amount": 2, "Order": "A" },
+      { "Ingredient": "honey", "Amount": 3, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "cacao", "Amount": 4, "Order": "A" },
+      { "Ingredient": "honey", "Amount": 5, "Order": "B" },
+      { "Ingredient": "leek", "Amount": 3, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 153,
+    "Name": "Bayleef",
+    "SleepType": "dozing",
+    "Type": "grass",
+    "ExpertOf": "Berries",
+    "Skill": "Charge Strength S (Random)",
+    "Fp": 12,
+    "Frequency": 3300,
+    "IngredientRatio": 16.8,
+    "SkillRatio": 3.8,
+    "Ancestor": 152,
+    "EvolutionCount": 1,
+    "EvolutionLeft": 1,
+    "HasEvolution": "false",
+    "CarryLimit": 17,
+    "Ingredients1": [{ "Ingredient": "cacao", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "cacao", "Amount": 2, "Order": "A" },
+      { "Ingredient": "honey", "Amount": 3, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "cacao", "Amount": 4, "Order": "A" },
+      { "Ingredient": "honey", "Amount": 5, "Order": "B" },
+      { "Ingredient": "leek", "Amount": 3, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 154,
+    "Name": "Meganium",
+    "SleepType": "dozing",
+    "Type": "grass",
+    "ExpertOf": "Berries",
+    "Skill": "Charge Strength S (Random)",
+    "Fp": 20,
+    "Frequency": 2800,
+    "IngredientRatio": 17.5,
+    "SkillRatio": 4.6,
+    "Ancestor": 152,
+    "EvolutionCount": 2,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 20,
+    "Ingredients1": [{ "Ingredient": "cacao", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "cacao", "Amount": 2, "Order": "A" },
+      { "Ingredient": "honey", "Amount": 3, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "cacao", "Amount": 4, "Order": "A" },
+      { "Ingredient": "honey", "Amount": 5, "Order": "B" },
+      { "Ingredient": "leek", "Amount": 3, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 197,
+    "Name": "Umbreon",
+    "SleepType": "dozing",
+    "Type": "dark",
+    "ExpertOf": "Skills",
+    "Skill": "Charge Energy S",
+    "Fp": 20,
+    "Frequency": 3200,
+    "IngredientRatio": 21.9,
+    "SkillRatio": 14.1,
+    "Ancestor": 133,
+    "EvolutionCount": 1,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 14,
+    "Ingredients1": [{ "Ingredient": "milk", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "milk", "Amount": 2, "Order": "A" },
+      { "Ingredient": "cacao", "Amount": 1, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "milk", "Amount": 4, "Order": "A" },
+      { "Ingredient": "cacao", "Amount": 2, "Order": "B" },
+      { "Ingredient": "sausage", "Amount": 3, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 214,
+    "Name": "Heracross",
+    "SleepType": "dozing",
+    "Type": "bug",
+    "ExpertOf": "Skills",
+    "Skill": "Ingredient Magnet S",
+    "Fp": 16,
+    "Frequency": 2400,
+    "IngredientRatio": 15.8,
+    "SkillRatio": 4.7,
+    "Ancestor": null,
+    "EvolutionCount": -1,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 20,
+    "Ingredients1": [{ "Ingredient": "honey", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "honey", "Amount": 2, "Order": "A" },
+      { "Ingredient": "mushroom", "Amount": 1, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "honey", "Amount": 4, "Order": "A" },
+      { "Ingredient": "mushroom", "Amount": 2, "Order": "B" },
+      { "Ingredient": "sausage", "Amount": 4, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 225,
+    "Name": "Delibird",
+    "SleepType": "dozing",
+    "Type": "flying",
+    "ExpertOf": "Ingredients",
+    "Skill": "Ingredient Magnet S",
+    "Fp": 16,
+    "Frequency": 2500,
+    "IngredientRatio": 18.8,
+    "SkillRatio": 1.5,
+    "Ancestor": null,
+    "EvolutionCount": -1,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 20,
+    "Ingredients1": [{ "Ingredient": "egg", "Amount": 2, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "egg", "Amount": 5, "Order": "A" },
+      { "Ingredient": "apple", "Amount": 6, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "egg", "Amount": 7, "Order": "A" },
+      { "Ingredient": "apple", "Amount": 9, "Order": "B" },
+      { "Ingredient": "cacao", "Amount": 5, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 228,
+    "Name": "Houndour",
+    "SleepType": "dozing",
+    "Type": "dark",
+    "ExpertOf": "Berries",
+    "Skill": "Charge Strength S",
+    "Fp": 5,
+    "Frequency": 4900,
+    "IngredientRatio": 20.1,
+    "SkillRatio": 4.4,
+    "Ancestor": 228,
+    "EvolutionCount": 0,
+    "EvolutionLeft": 1,
+    "HasEvolution": "false",
+    "CarryLimit": 10,
+    "Ingredients1": [{ "Ingredient": "herb", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "herb", "Amount": 2, "Order": "A" },
+      { "Ingredient": "ginger", "Amount": 3, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "herb", "Amount": 4, "Order": "A" },
+      { "Ingredient": "ginger", "Amount": 4, "Order": "B" },
+      { "Ingredient": "leek", "Amount": 3, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 229,
+    "Name": "Houndoom",
+    "SleepType": "dozing",
+    "Type": "dark",
+    "ExpertOf": "Berries",
+    "Skill": "Charge Strength S",
+    "Fp": 12,
+    "Frequency": 3300,
+    "IngredientRatio": 20.3,
+    "SkillRatio": 4.6,
+    "Ancestor": 228,
+    "EvolutionCount": 1,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 18,
+    "Ingredients1": [{ "Ingredient": "herb", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "herb", "Amount": 2, "Order": "A" },
+      { "Ingredient": "ginger", "Amount": 3, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "herb", "Amount": 4, "Order": "A" },
+      { "Ingredient": "ginger", "Amount": 4, "Order": "B" },
+      { "Ingredient": "leek", "Amount": 3, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 248,
+    "Name": "Tyranitar",
+    "SleepType": "dozing",
+    "Type": "dark",
+    "ExpertOf": "Ingredients",
+    "Skill": "Charge Energy S",
+    "Fp": 25,
+    "Frequency": 2700,
+    "IngredientRatio": 26.6,
+    "SkillRatio": 5.2,
+    "Ancestor": 246,
+    "EvolutionCount": 2,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 19,
+    "Ingredients1": [{ "Ingredient": "ginger", "Amount": 2, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "ginger", "Amount": 5, "Order": "A" },
+      { "Ingredient": "soy", "Amount": 5, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "ginger", "Amount": 7, "Order": "A" },
+      { "Ingredient": "soy", "Amount": 8, "Order": "B" },
+      { "Ingredient": "sausage", "Amount": 8, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 288,
+    "Name": "Vigoroth",
+    "SleepType": "dozing",
+    "Type": "normal",
+    "ExpertOf": "Berries",
+    "Skill": "Ingredient Magnet S",
+    "Fp": 12,
+    "Frequency": 3200,
+    "IngredientRatio": 20.4,
+    "SkillRatio": 1.5,
+    "Ancestor": 287,
+    "EvolutionCount": 1,
+    "EvolutionLeft": 1,
+    "HasEvolution": "false",
+    "CarryLimit": 9,
+    "Ingredients1": [{ "Ingredient": "tomato", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "tomato", "Amount": 2, "Order": "A" },
+      { "Ingredient": "honey", "Amount": 2, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "tomato", "Amount": 4, "Order": "A" },
+      { "Ingredient": "honey", "Amount": 4, "Order": "B" },
+      { "Ingredient": "apple", "Amount": 4, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 302,
+    "Name": "Sableye",
+    "SleepType": "dozing",
+    "Type": "dark",
+    "ExpertOf": "Skills",
+    "Skill": "Dream Shard Magnet S (Random)",
+    "Fp": 16,
+    "Frequency": 3600,
+    "IngredientRatio": 18.8,
+    "SkillRatio": 6.8,
+    "Ancestor": null,
+    "EvolutionCount": -1,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 16,
+    "Ingredients1": [{ "Ingredient": "oil", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "oil", "Amount": 2, "Order": "A" },
+      { "Ingredient": "mushroom", "Amount": 2, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "oil", "Amount": 4, "Order": "A" },
+      { "Ingredient": "mushroom", "Amount": 3, "Order": "B" },
+      { "Ingredient": "cacao", "Amount": 3, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 316,
+    "Name": "Gulpin",
+    "SleepType": "dozing",
+    "Type": "poison",
+    "ExpertOf": "Skills",
+    "Skill": "Dream Shard Magnet S (Random)",
+    "Fp": 5,
+    "Frequency": 5900,
+    "IngredientRatio": 21.4,
+    "SkillRatio": 6.3,
+    "Ancestor": 316,
+    "EvolutionCount": 0,
+    "EvolutionLeft": 1,
+    "HasEvolution": "false",
+    "CarryLimit": 8,
+    "Ingredients1": [{ "Ingredient": "soy", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "soy", "Amount": 2, "Order": "A" },
+      { "Ingredient": "mushroom", "Amount": 1, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "soy", "Amount": 4, "Order": "A" },
+      { "Ingredient": "mushroom", "Amount": 2, "Order": "B" },
+      { "Ingredient": "honey", "Amount": 4, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 317,
+    "Name": "Swalot",
+    "SleepType": "dozing",
+    "Type": "poison",
+    "ExpertOf": "Skills",
+    "Skill": "Dream Shard Magnet S (Random)",
+    "Fp": 12,
+    "Frequency": 3500,
+    "IngredientRatio": 21,
+    "SkillRatio": 7,
+    "Ancestor": 316,
+    "EvolutionCount": 1,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 19,
+    "Ingredients1": [{ "Ingredient": "soy", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "soy", "Amount": 2, "Order": "A" },
+      { "Ingredient": "mushroom", "Amount": 1, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "soy", "Amount": 4, "Order": "A" },
+      { "Ingredient": "mushroom", "Amount": 2, "Order": "B" },
+      { "Ingredient": "honey", "Amount": 4, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 334,
+    "Name": "Altaria",
+    "SleepType": "dozing",
+    "Type": "dragon",
+    "ExpertOf": "Berries",
+    "Skill": "Charge Energy S",
+    "Fp": 12,
+    "Frequency": 3700,
+    "IngredientRatio": 25.8,
+    "SkillRatio": 6.1,
+    "Ancestor": 333,
+    "EvolutionCount": 1,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 14,
+    "Ingredients1": [{ "Ingredient": "egg", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "egg", "Amount": 2, "Order": "A" },
+      { "Ingredient": "soy", "Amount": 3, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "egg", "Amount": 4, "Order": "A" },
+      { "Ingredient": "soy", "Amount": 4, "Order": "B" },
+      { "Ingredient": "apple", "Amount": 5, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 353,
+    "Name": "Shuppet",
+    "SleepType": "dozing",
+    "Type": "ghost",
+    "ExpertOf": "Berries",
+    "Skill": "Charge Strength S (Random)",
+    "Fp": 5,
+    "Frequency": 3900,
+    "IngredientRatio": 17.1,
+    "SkillRatio": 2.6,
+    "Ancestor": 353,
+    "EvolutionCount": 0,
+    "EvolutionLeft": 1,
+    "HasEvolution": "false",
+    "CarryLimit": 11,
+    "Ingredients1": [{ "Ingredient": "oil", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "oil", "Amount": 2, "Order": "A" },
+      { "Ingredient": "ginger", "Amount": 2, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "oil", "Amount": 4, "Order": "A" },
+      { "Ingredient": "ginger", "Amount": 4, "Order": "B" },
+      { "Ingredient": "mushroom", "Amount": 3, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 354,
+    "Name": "Banette",
+    "SleepType": "dozing",
+    "Type": "ghost",
+    "ExpertOf": "Berries",
+    "Skill": "Charge Strength S (Random)",
+    "Fp": 16,
+    "Frequency": 2600,
+    "IngredientRatio": 17.9,
+    "SkillRatio": 3.3,
+    "Ancestor": 353,
+    "EvolutionCount": 1,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 19,
+    "Ingredients1": [{ "Ingredient": "oil", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "oil", "Amount": 2, "Order": "A" },
+      { "Ingredient": "ginger", "Amount": 2, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "oil", "Amount": 4, "Order": "A" },
+      { "Ingredient": "ginger", "Amount": 4, "Order": "B" },
+      { "Ingredient": "mushroom", "Amount": 3, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 359,
+    "Name": "Absol",
+    "SleepType": "dozing",
+    "Type": "dark",
+    "ExpertOf": "Ingredients",
+    "Skill": "Charge Strength S",
+    "Fp": 16,
+    "Frequency": 3100,
+    "IngredientRatio": 17.8,
+    "SkillRatio": 3.8,
+    "Ancestor": null,
+    "EvolutionCount": -1,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 18,
+    "Ingredients1": [{ "Ingredient": "cacao", "Amount": 2, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "cacao", "Amount": 5, "Order": "A" },
+      { "Ingredient": "apple", "Amount": 8, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "cacao", "Amount": 7, "Order": "A" },
+      { "Ingredient": "apple", "Amount": 12, "Order": "B" },
+      { "Ingredient": "mushroom", "Amount": 7, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 453,
+    "Name": "Croagunk",
+    "SleepType": "dozing",
+    "Type": "poison",
+    "ExpertOf": "Ingredients",
+    "Skill": "Charge Strength S",
+    "Fp": 5,
+    "Frequency": 5600,
+    "IngredientRatio": 22.8,
+    "SkillRatio": 4.2,
+    "Ancestor": 453,
+    "EvolutionCount": 0,
+    "EvolutionLeft": 1,
+    "HasEvolution": "false",
+    "CarryLimit": 10,
+    "Ing1": ["oil", 2, 5, 7],
+    "Ing2": ["sausage", 5, 8]
+  },
+  {
+    "Id": 454,
+    "Name": "Toxicroak",
+    "SleepType": "dozing",
+    "Type": "poison",
+    "ExpertOf": "Ingredients",
+    "Skill": "Charge Strength S",
+    "Fp": 12,
+    "Frequency": 3400,
+    "IngredientRatio": 22.9,
+    "SkillRatio": 4.3,
+    "Ancestor": 453,
+    "EvolutionCount": 1,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 14,
+    "Ing1": ["oil", 2, 5, 7],
+    "Ing2": ["sausage", 5, 8]
+  },
+  {
+    "Id": 470,
+    "Name": "Leafeon",
+    "SleepType": "dozing",
+    "Type": "grass",
+    "ExpertOf": "Skills",
+    "Skill": "Energizing Cheer S",
+    "Fp": 20,
+    "Frequency": 3000,
+    "IngredientRatio": 20.5,
+    "SkillRatio": 5.9,
+    "Ancestor": 133,
+    "EvolutionCount": 1,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 13,
+    "Ingredients1": [{ "Ingredient": "milk", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "milk", "Amount": 2, "Order": "A" },
+      { "Ingredient": "cacao", "Amount": 1, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "milk", "Amount": 4, "Order": "A" },
+      { "Ingredient": "cacao", "Amount": 2, "Order": "B" },
+      { "Ingredient": "sausage", "Amount": 3, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 906,
+    "Name": "Sprigatito",
+    "SleepType": "dozing",
+    "Type": "grass",
+    "ExpertOf": "Ingredients",
+    "Skill": "Cooking Power-Up S",
+    "Fp": 5,
+    "Frequency": 4600,
+    "IngredientRatio": 20.8,
+    "SkillRatio": 2.3,
+    "Ancestor": 906,
+    "EvolutionCount": 0,
+    "EvolutionLeft": 2,
+    "HasEvolution": "false",
+    "CarryLimit": 10,
+    "Ingredients1": [{ "Ingredient": "potato", "Amount": 2, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "potato", "Amount": 5, "Order": "A" },
+      { "Ingredient": "milk", "Amount": 6, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "potato", "Amount": 7, "Order": "A" },
+      { "Ingredient": "milk", "Amount": 9, "Order": "B" },
+      { "Ingredient": "ginger", "Amount": 8, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 907,
+    "Name": "Floragato",
+    "SleepType": "dozing",
+    "Type": "grass",
+    "ExpertOf": "Ingredients",
+    "Skill": "Cooking Power-Up S",
+    "Fp": 12,
+    "Frequency": 3500,
+    "IngredientRatio": 20.9,
+    "SkillRatio": 2.3,
+    "Ancestor": 906,
+    "EvolutionCount": 1,
+    "EvolutionLeft": 1,
+    "HasEvolution": "false",
+    "CarryLimit": 14,
+    "Ingredients1": [{ "Ingredient": "potato", "Amount": 2, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "potato", "Amount": 5, "Order": "A" },
+      { "Ingredient": "milk", "Amount": 6, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "potato", "Amount": 7, "Order": "A" },
+      { "Ingredient": "milk", "Amount": 9, "Order": "B" },
+      { "Ingredient": "ginger", "Amount": 8, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 908,
+    "Name": "Meowscarada",
+    "SleepType": "dozing",
+    "Type": "dark",
+    "ExpertOf": "Ingredients",
+    "Skill": "Cooking Power-Up S",
+    "Fp": 20,
+    "Frequency": 2600,
+    "IngredientRatio": 19,
+    "SkillRatio": 2.2,
+    "Ancestor": 906,
+    "EvolutionCount": 2,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 18,
+    "Ingredients1": [{ "Ingredient": "potato", "Amount": 2, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "potato", "Amount": 5, "Order": "A" },
+      { "Ingredient": "milk", "Amount": 6, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "potato", "Amount": 7, "Order": "A" },
+      { "Ingredient": "milk", "Amount": 9, "Order": "B" },
+      { "Ingredient": "ginger", "Amount": 8, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 911,
+    "Name": "Skeledirge",
+    "SleepType": "dozing",
+    "Type": "ghost",
+    "ExpertOf": "Ingredients",
+    "Skill": "Charge Energy S",
+    "Fp": 20,
+    "Frequency": 2700,
+    "IngredientRatio": 26.8,
+    "SkillRatio": 6.2,
+    "Ancestor": 909,
+    "EvolutionCount": 2,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 19,
+    "Ingredients1": [{ "Ingredient": "apple", "Amount": 2, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "apple", "Amount": 5, "Order": "A" },
+      { "Ingredient": "sausage", "Amount": 4, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "apple", "Amount": 7, "Order": "A" },
+      { "Ingredient": "sausage", "Amount": 6, "Order": "B" },
+      { "Ingredient": "herb", "Amount": 5, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 4,
+    "Name": "Charmander",
+    "SleepType": "snoozing",
+    "Type": "fire",
+    "ExpertOf": "Ingredients",
+    "Skill": "Ingredient Magnet S",
+    "Fp": 5,
+    "Frequency": 3500,
+    "IngredientRatio": 20.1,
+    "SkillRatio": 1.1,
+    "Ancestor": 4,
+    "EvolutionCount": 0,
+    "EvolutionLeft": 2,
+    "HasEvolution": "false",
+    "CarryLimit": 12,
+    "Ingredients1": [{ "Ingredient": "sausage", "Amount": 2, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "sausage", "Amount": 5, "Order": "A" },
+      { "Ingredient": "ginger", "Amount": 4, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "sausage", "Amount": 7, "Order": "A" },
+      { "Ingredient": "ginger", "Amount": 7, "Order": "B" },
+      { "Ingredient": "herb", "Amount": 6, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 5,
+    "Name": "Charmeleon",
+    "SleepType": "snoozing",
+    "Type": "fire",
+    "ExpertOf": "Ingredients",
+    "Skill": "Ingredient Magnet S",
+    "Fp": 12,
+    "Frequency": 3000,
+    "IngredientRatio": 22.7,
+    "SkillRatio": 1.6,
+    "Ancestor": 4,
+    "EvolutionCount": 1,
+    "EvolutionLeft": 1,
+    "HasEvolution": "false",
+    "CarryLimit": 15,
+    "Ingredients1": [{ "Ingredient": "sausage", "Amount": 2, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "sausage", "Amount": 5, "Order": "A" },
+      { "Ingredient": "ginger", "Amount": 4, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "sausage", "Amount": 7, "Order": "A" },
+      { "Ingredient": "ginger", "Amount": 7, "Order": "B" },
+      { "Ingredient": "herb", "Amount": 6, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 6,
+    "Name": "Charizard",
+    "SleepType": "snoozing",
+    "Type": "fire",
+    "ExpertOf": "Ingredients",
+    "Skill": "Ingredient Magnet S",
+    "Fp": 20,
+    "Frequency": 2400,
+    "IngredientRatio": 22.4,
+    "SkillRatio": 1.6,
+    "Ancestor": 4,
+    "EvolutionCount": 2,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 19,
+    "Ingredients1": [{ "Ingredient": "sausage", "Amount": 2, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "sausage", "Amount": 5, "Order": "A" },
+      { "Ingredient": "ginger", "Amount": 4, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "sausage", "Amount": 7, "Order": "A" },
+      { "Ingredient": "ginger", "Amount": 7, "Order": "B" },
+      { "Ingredient": "herb", "Amount": 6, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 19,
+    "Name": "Rattata",
+    "SleepType": "snoozing",
+    "Type": "normal",
+    "ExpertOf": "Berries",
+    "Skill": "Charge Energy S",
+    "Fp": 5,
+    "Frequency": 4900,
+    "IngredientRatio": 23.7,
+    "SkillRatio": 3,
+    "Ancestor": 19,
+    "EvolutionCount": 0,
+    "EvolutionLeft": 1,
+    "HasEvolution": "false",
+    "CarryLimit": 10,
+    "Ingredients1": [{ "Ingredient": "apple", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "apple", "Amount": 2, "Order": "A" },
+      { "Ingredient": "soy", "Amount": 2, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "apple", "Amount": 4, "Order": "A" },
+      { "Ingredient": "soy", "Amount": 3, "Order": "B" },
+      { "Ingredient": "sausage", "Amount": 3, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 20,
+    "Name": "Raticate",
+    "SleepType": "snoozing",
+    "Type": "normal",
+    "ExpertOf": "Berries",
+    "Skill": "Charge Energy S",
+    "Fp": 12,
+    "Frequency": 3200,
+    "IngredientRatio": 23.7,
+    "SkillRatio": 3,
+    "Ancestor": 19,
+    "EvolutionCount": 1,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 16,
+    "Ingredients1": [{ "Ingredient": "apple", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "apple", "Amount": 2, "Order": "A" },
+      { "Ingredient": "soy", "Amount": 2, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "apple", "Amount": 4, "Order": "A" },
+      { "Ingredient": "soy", "Amount": 3, "Order": "B" },
+      { "Ingredient": "sausage", "Amount": 3, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 25,
+    "Name": "Pikachu",
+    "SleepType": "snoozing",
+    "Type": "electric",
+    "ExpertOf": "Berries",
+    "Skill": "Charge Strength S",
+    "Fp": 7,
+    "Frequency": 2700,
+    "IngredientRatio": 20.7,
+    "SkillRatio": 2.1,
+    "Ancestor": 172,
+    "EvolutionCount": 1,
+    "EvolutionLeft": 1,
+    "HasEvolution": "false",
+    "CarryLimit": 17,
+    "Ingredients1": [{ "Ingredient": "apple", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "apple", "Amount": 2, "Order": "A" },
+      { "Ingredient": "ginger", "Amount": 2, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "apple", "Amount": 4, "Order": "A" },
+      { "Ingredient": "ginger", "Amount": 3, "Order": "B" },
+      { "Ingredient": "egg", "Amount": 3, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 25,
+    "Name": "Pikachu (Halloween)",
+    "SleepType": "snoozing",
+    "Type": "electric",
+    "ExpertOf": "Berries",
+    "Skill": "Charge Strength S (Random)",
+    "Fp": 7,
+    "Frequency": 2600,
+    "IngredientRatio": 21.8,
+    "SkillRatio": 2.8,
+    "Ancestor": null,
+    "EvolutionCount": -1,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 18,
+    "Ingredients1": [{ "Ingredient": "apple", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "apple", "Amount": 2, "Order": "A" },
+      { "Ingredient": "ginger", "Amount": 2, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "apple", "Amount": 4, "Order": "A" },
+      { "Ingredient": "ginger", "Amount": 3, "Order": "B" },
+      { "Ingredient": "egg", "Amount": 3, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 25,
+    "Name": "Pikachu (Festivo)",
+    "SleepType": "snoozing",
+    "Type": "electric",
+    "ExpertOf": "Skills",
+    "Skill": "Dream Shard Magnet S",
+    "Fp": 7,
+    "Frequency": 2600,
+    "IngredientRatio": 13.1,
+    "SkillRatio": 4.2,
+    "Ancestor": null,
+    "EvolutionCount": -1,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 16,
+    "Ingredients1": [{ "Ingredient": "apple", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "apple", "Amount": 2, "Order": "A" },
+      { "Ingredient": "ginger", "Amount": 2, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "apple", "Amount": 4, "Order": "A" },
+      { "Ingredient": "ginger", "Amount": 3, "Order": "B" },
+      { "Ingredient": "egg", "Amount": 3, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 26,
+    "Name": "Raichu",
+    "SleepType": "snoozing",
+    "Type": "electric",
+    "ExpertOf": "Berries",
+    "Skill": "Charge Strength S",
+    "Fp": 18,
+    "Frequency": 2200,
+    "IngredientRatio": 22.4,
+    "SkillRatio": 3.2,
+    "Ancestor": 172,
+    "EvolutionCount": 2,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 21,
+    "Ingredients1": [{ "Ingredient": "apple", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "apple", "Amount": 2, "Order": "A" },
+      { "Ingredient": "ginger", "Amount": 2, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "apple", "Amount": 4, "Order": "A" },
+      { "Ingredient": "ginger", "Amount": 3, "Order": "B" },
+      { "Ingredient": "egg", "Amount": 3, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 35,
+    "Name": "Clefairy",
+    "SleepType": "snoozing",
+    "Type": "fairy",
+    "ExpertOf": "Berries",
+    "Skill": "Metronome",
+    "Fp": 7,
+    "Frequency": 4000,
+    "IngredientRatio": 16.8,
+    "SkillRatio": 3.6,
+    "Ancestor": 173,
+    "EvolutionCount": 1,
+    "EvolutionLeft": 1,
+    "HasEvolution": "false",
+    "CarryLimit": 16,
+    "Ingredients1": [{ "Ingredient": "apple", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "apple", "Amount": 2, "Order": "A" },
+      { "Ingredient": "honey", "Amount": 2, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "apple", "Amount": 4, "Order": "A" },
+      { "Ingredient": "honey", "Amount": 3, "Order": "B" },
+      { "Ingredient": "soy", "Amount": 3, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 36,
+    "Name": "Clefable",
+    "SleepType": "snoozing",
+    "Type": "fairy",
+    "ExpertOf": "Berries",
+    "Skill": "Metronome",
+    "Fp": 20,
+    "Frequency": 2800,
+    "IngredientRatio": 16.8,
+    "SkillRatio": 3.6,
+    "Ancestor": 173,
+    "EvolutionCount": 2,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 24,
+    "Ingredients1": [{ "Ingredient": "apple", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "apple", "Amount": 2, "Order": "A" },
+      { "Ingredient": "honey", "Amount": 2, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "apple", "Amount": 4, "Order": "A" },
+      { "Ingredient": "honey", "Amount": 3, "Order": "B" },
+      { "Ingredient": "soy", "Amount": 3, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 37,
+    "Name": "Vulpix",
+    "SleepType": "snoozing",
+    "Type": "fire",
+    "ExpertOf": "Berries",
+    "Skill": "Energizing Cheer S",
+    "Fp": 5,
+    "Frequency": 4700,
+    "IngredientRatio": 16.8,
+    "SkillRatio": 2.7,
+    "Ancestor": 37,
+    "EvolutionCount": 0,
+    "EvolutionLeft": 1,
+    "HasEvolution": "false",
+    "CarryLimit": 13,
+    "Ingredients1": [{ "Ingredient": "soy", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "soy", "Amount": 2, "Order": "A" },
+      { "Ingredient": "corn", "Amount": 2, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "soy", "Amount": 4, "Order": "A" },
+      { "Ingredient": "corn", "Amount": 3, "Order": "B" },
+      { "Ingredient": "potato", "Amount": 3, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 38,
+    "Name": "Ninetales",
+    "SleepType": "snoozing",
+    "Type": "fire",
+    "ExpertOf": "Berries",
+    "Skill": "Energizing Cheer S",
+    "Fp": 20,
+    "Frequency": 2600,
+    "IngredientRatio": 16.4,
+    "SkillRatio": 2.5,
+    "Ancestor": 37,
+    "EvolutionCount": 1,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 23,
+    "Ingredients1": [{ "Ingredient": "soy", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "soy", "Amount": 2, "Order": "A" },
+      { "Ingredient": "corn", "Amount": 2, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "soy", "Amount": 4, "Order": "A" },
+      { "Ingredient": "corn", "Amount": 3, "Order": "B" },
+      { "Ingredient": "potato", "Amount": 3, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 39,
+    "Name": "Jigglypuff",
+    "SleepType": "snoozing",
+    "Type": "fairy",
+    "ExpertOf": "Skills",
+    "Skill": "Energy for Everyone S",
+    "Fp": 7,
+    "Frequency": 3900,
+    "IngredientRatio": 18.2,
+    "SkillRatio": 4.3,
+    "Ancestor": 174,
+    "EvolutionCount": 1,
+    "EvolutionLeft": 1,
+    "HasEvolution": "false",
+    "CarryLimit": 9,
+    "Ingredients1": [{ "Ingredient": "honey", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "honey", "Amount": 2, "Order": "A" },
+      { "Ingredient": "oil", "Amount": 2, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "honey", "Amount": 4, "Order": "A" },
+      { "Ingredient": "oil", "Amount": 3, "Order": "B" },
+      { "Ingredient": "cacao", "Amount": 2, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 40,
+    "Name": "Wigglytuff",
+    "SleepType": "snoozing",
+    "Type": "fairy",
+    "ExpertOf": "Skills",
+    "Skill": "Energy for Everyone S",
+    "Fp": 16,
+    "Frequency": 2900,
+    "IngredientRatio": 17.4,
+    "SkillRatio": 4,
+    "Ancestor": 174,
+    "EvolutionCount": 2,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 13,
+    "Ingredients1": [{ "Ingredient": "honey", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "honey", "Amount": 2, "Order": "A" },
+      { "Ingredient": "oil", "Amount": 2, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "honey", "Amount": 4, "Order": "A" },
+      { "Ingredient": "oil", "Amount": 3, "Order": "B" },
+      { "Ingredient": "cacao", "Amount": 2, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 50,
+    "Name": "Diglett",
+    "SleepType": "snoozing",
+    "Type": "ground",
+    "ExpertOf": "Ingredients",
+    "Skill": "Charge Strength S",
+    "Fp": 5,
+    "Frequency": 4300,
+    "IngredientRatio": 19.2,
+    "SkillRatio": 2.1,
+    "Ancestor": 50,
+    "EvolutionCount": 0,
+    "EvolutionLeft": 1,
+    "HasEvolution": "false",
+    "CarryLimit": 10,
+    "Ingredients1": [{ "Ingredient": "tomato", "Amount": 2, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "tomato", "Amount": 5, "Order": "A" },
+      { "Ingredient": "leek", "Amount": 3, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "tomato", "Amount": 7, "Order": "A" },
+      { "Ingredient": "leek", "Amount": 4, "Order": "B" },
+      { "Ingredient": "soy", "Amount": 8, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 51,
+    "Name": "Dugtrio",
+    "SleepType": "snoozing",
+    "Type": "ground",
+    "ExpertOf": "Ingredients",
+    "Skill": "Charge Strength S",
+    "Fp": 12,
+    "Frequency": 2800,
+    "IngredientRatio": 19,
+    "SkillRatio": 2,
+    "Ancestor": 50,
+    "EvolutionCount": 1,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 16,
+    "Ingredients1": [{ "Ingredient": "tomato", "Amount": 2, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "tomato", "Amount": 5, "Order": "A" },
+      { "Ingredient": "leek", "Amount": 3, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "tomato", "Amount": 7, "Order": "A" },
+      { "Ingredient": "leek", "Amount": 4, "Order": "B" },
+      { "Ingredient": "soy", "Amount": 8, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 52,
+    "Name": "Meowth",
+    "SleepType": "snoozing",
+    "Type": "normal",
+    "ExpertOf": "Skills",
+    "Skill": "Dream Shard Magnet S",
+    "Fp": 5,
+    "Frequency": 4400,
+    "IngredientRatio": 16.3,
+    "SkillRatio": 4.2,
+    "Ancestor": 52,
+    "EvolutionCount": 0,
+    "EvolutionLeft": 1,
+    "HasEvolution": "false",
+    "CarryLimit": 9,
+    "Ing1": ["milk", 1, 2, 4],
+    "Ing2": ["sausage", 2, 3]
+  },
+  {
+    "Id": 53,
+    "Name": "Persian",
+    "SleepType": "snoozing",
+    "Type": "normal",
+    "ExpertOf": "Skills",
+    "Skill": "Dream Shard Magnet S",
+    "Fp": 12,
+    "Frequency": 2800,
+    "IngredientRatio": 16.9,
+    "SkillRatio": 4.4,
+    "Ancestor": 52,
+    "EvolutionCount": 1,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 12,
+    "Ing1": ["milk", 1, 2, 4],
+    "Ing2": ["sausage", 2, 3]
+  },
+  {
+    "Id": 58,
+    "Name": "Growlithe",
+    "SleepType": "snoozing",
+    "Type": "fire",
+    "ExpertOf": "Skills",
+    "Skill": "Extra Helpful S",
+    "Fp": 5,
+    "Frequency": 4300,
+    "IngredientRatio": 13.8,
+    "SkillRatio": 5,
+    "Ancestor": 58,
+    "EvolutionCount": 0,
+    "EvolutionLeft": 1,
+    "HasEvolution": "false",
+    "CarryLimit": 8,
+    "Ingredients1": [{ "Ingredient": "herb", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "herb", "Amount": 2, "Order": "A" },
+      { "Ingredient": "sausage", "Amount": 3, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "herb", "Amount": 4, "Order": "A" },
+      { "Ingredient": "sausage", "Amount": 5, "Order": "B" },
+      { "Ingredient": "milk", "Amount": 5, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 59,
+    "Name": "Arcanine",
+    "SleepType": "snoozing",
+    "Type": "fire",
+    "ExpertOf": "Skills",
+    "Skill": "Extra Helpful S",
+    "Fp": 20,
+    "Frequency": 2500,
+    "IngredientRatio": 13.6,
+    "SkillRatio": 4.9,
+    "Ancestor": 58,
+    "EvolutionCount": 1,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 16,
+    "Ingredients1": [{ "Ingredient": "herb", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "herb", "Amount": 2, "Order": "A" },
+      { "Ingredient": "sausage", "Amount": 3, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "herb", "Amount": 4, "Order": "A" },
+      { "Ingredient": "sausage", "Amount": 5, "Order": "B" },
+      { "Ingredient": "milk", "Amount": 5, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 79,
+    "Name": "Slowpoke",
+    "SleepType": "snoozing",
+    "Type": "water",
+    "ExpertOf": "Skills",
+    "Skill": "Energizing Cheer S",
+    "Fp": 5,
+    "Frequency": 5700,
+    "IngredientRatio": 15.1,
+    "SkillRatio": 6.7,
+    "Ancestor": 79,
+    "EvolutionCount": 0,
+    "EvolutionLeft": 1,
+    "HasEvolution": "false",
+    "CarryLimit": 9,
+    "Ingredients1": [{ "Ingredient": "cacao", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "cacao", "Amount": 2, "Order": "A" },
+      { "Ingredient": "tail", "Amount": 1, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "cacao", "Amount": 4, "Order": "A" },
+      { "Ingredient": "tail", "Amount": 2, "Order": "B" },
+      { "Ingredient": "tomato", "Amount": 5, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 80,
+    "Name": "Slowbro",
+    "SleepType": "snoozing",
+    "Type": "water",
+    "ExpertOf": "Skills",
+    "Skill": "Energizing Cheer S",
+    "Fp": 12,
+    "Frequency": 3800,
+    "IngredientRatio": 19.7,
+    "SkillRatio": 6.8,
+    "Ancestor": 79,
+    "EvolutionCount": 1,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 16,
+    "Ingredients1": [{ "Ingredient": "cacao", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "cacao", "Amount": 2, "Order": "A" },
+      { "Ingredient": "tail", "Amount": 1, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "cacao", "Amount": 4, "Order": "A" },
+      { "Ingredient": "tail", "Amount": 2, "Order": "B" },
+      { "Ingredient": "tomato", "Amount": 5, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 115,
+    "Name": "Kangaskhan",
+    "SleepType": "snoozing",
+    "Type": "normal",
+    "ExpertOf": "Ingredients",
+    "Skill": "Ingredient Magnet S",
+    "Fp": 16,
+    "Frequency": 2800,
+    "IngredientRatio": 22.2,
+    "SkillRatio": 1.7,
+    "Ancestor": null,
+    "EvolutionCount": -1,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 18,
+    "Ingredients1": [{ "Ingredient": "ginger", "Amount": 2, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "ginger", "Amount": 5, "Order": "A" },
+      { "Ingredient": "potato", "Amount": 4, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "ginger", "Amount": 7, "Order": "A" },
+      { "Ingredient": "potato", "Amount": 6, "Order": "B" },
+      { "Ingredient": "soy", "Amount": 8, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 122,
+    "Name": "Mr. Mime",
+    "SleepType": "snoozing",
+    "Type": "psychic",
+    "ExpertOf": "Ingredients",
+    "Skill": "Charge Strength S",
+    "Fp": 12,
+    "Frequency": 2800,
+    "IngredientRatio": 21.6,
+    "SkillRatio": 3.9,
+    "Ancestor": 439,
+    "EvolutionCount": 1,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 17,
+    "Ingredients1": [{ "Ingredient": "tomato", "Amount": 2, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "tomato", "Amount": 5, "Order": "A" },
+      { "Ingredient": "potato", "Amount": 4, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "tomato", "Amount": 7, "Order": "A" },
+      { "Ingredient": "potato", "Amount": 6, "Order": "B" },
+      { "Ingredient": "leek", "Amount": 4, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 132,
+    "Name": "Ditto",
+    "SleepType": "snoozing",
+    "Type": "normal",
+    "ExpertOf": "Ingredients",
+    "Skill": "Charge Strength S (Random)",
+    "Fp": 16,
+    "Frequency": 3500,
+    "IngredientRatio": 20.1,
+    "SkillRatio": 3.6,
+    "Ancestor": null,
+    "EvolutionCount": -1,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 17,
+    "Ingredients1": [{ "Ingredient": "oil", "Amount": 2, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "oil", "Amount": 5, "Order": "A" },
+      { "Ingredient": "leek", "Amount": 3, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "oil", "Amount": 7, "Order": "A" },
+      { "Ingredient": "leek", "Amount": 5, "Order": "B" },
+      { "Ingredient": "tail", "Amount": 3, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 133,
+    "Name": "Eevee",
+    "SleepType": "snoozing",
+    "Type": "normal",
+    "ExpertOf": "Skills",
+    "Skill": "Ingredient Magnet S",
+    "Fp": 5,
+    "Frequency": 3700,
+    "IngredientRatio": 19.2,
+    "SkillRatio": 5.5,
+    "Ancestor": 133,
+    "EvolutionCount": 0,
+    "EvolutionLeft": 1,
+    "HasEvolution": "false",
+    "CarryLimit": 12,
+    "Ingredients1": [{ "Ingredient": "milk", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "milk", "Amount": 2, "Order": "A" },
+      { "Ingredient": "cacao", "Amount": 1, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "milk", "Amount": 4, "Order": "A" },
+      { "Ingredient": "cacao", "Amount": 2, "Order": "B" },
+      { "Ingredient": "sausage", "Amount": 3, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 135,
+    "Name": "Jolteon",
+    "SleepType": "snoozing",
+    "Type": "electric",
+    "ExpertOf": "Skills",
+    "Skill": "Extra Helpful S",
+    "Fp": 20,
+    "Frequency": 2200,
+    "IngredientRatio": 15.1,
+    "SkillRatio": 3.9,
+    "Ancestor": 133,
+    "EvolutionCount": 1,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 17,
+    "Ingredients1": [{ "Ingredient": "milk", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "milk", "Amount": 2, "Order": "A" },
+      { "Ingredient": "cacao", "Amount": 1, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "milk", "Amount": 4, "Order": "A" },
+      { "Ingredient": "cacao", "Amount": 2, "Order": "B" },
+      { "Ingredient": "sausage", "Amount": 3, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 136,
+    "Name": "Flareon",
+    "SleepType": "snoozing",
+    "Type": "fire",
+    "ExpertOf": "Skills",
+    "Skill": "Cooking Power-Up S",
+    "Fp": 20,
+    "Frequency": 2700,
+    "IngredientRatio": 18.5,
+    "SkillRatio": 5.2,
+    "Ancestor": 133,
+    "EvolutionCount": 1,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 14,
+    "Ingredients1": [{ "Ingredient": "milk", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "milk", "Amount": 2, "Order": "A" },
+      { "Ingredient": "cacao", "Amount": 1, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "milk", "Amount": 4, "Order": "A" },
+      { "Ingredient": "cacao", "Amount": 2, "Order": "B" },
+      { "Ingredient": "sausage", "Amount": 3, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 155,
+    "Name": "Cyndaquil",
+    "SleepType": "snoozing",
+    "Type": "fire",
+    "ExpertOf": "Berries",
+    "Skill": "Charge Strength S (Random)",
+    "Fp": 5,
+    "Frequency": 3500,
+    "IngredientRatio": 18.6,
+    "SkillRatio": 2.1,
+    "Ancestor": 155,
+    "EvolutionCount": 0,
+    "EvolutionLeft": 2,
+    "HasEvolution": "false",
+    "CarryLimit": 14,
+    "Ingredients1": [{ "Ingredient": "ginger", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "ginger", "Amount": 2, "Order": "A" },
+      { "Ingredient": "herb", "Amount": 2, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "ginger", "Amount": 4, "Order": "A" },
+      { "Ingredient": "herb", "Amount": 3, "Order": "B" },
+      { "Ingredient": "oil", "Amount": 3, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 156,
+    "Name": "Quilava",
+    "SleepType": "snoozing",
+    "Type": "fire",
+    "ExpertOf": "Berries",
+    "Skill": "Charge Strength S (Random)",
+    "Fp": 12,
+    "Frequency": 3000,
+    "IngredientRatio": 21.1,
+    "SkillRatio": 4.1,
+    "Ancestor": 155,
+    "EvolutionCount": 1,
+    "EvolutionLeft": 1,
+    "HasEvolution": "false",
+    "CarryLimit": 18,
+    "Ingredients1": [{ "Ingredient": "ginger", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "ginger", "Amount": 2, "Order": "A" },
+      { "Ingredient": "herb", "Amount": 2, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "ginger", "Amount": 4, "Order": "A" },
+      { "Ingredient": "herb", "Amount": 3, "Order": "B" },
+      { "Ingredient": "oil", "Amount": 3, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 157,
+    "Name": "Typhlosion",
+    "SleepType": "snoozing",
+    "Type": "fire",
+    "ExpertOf": "Berries",
+    "Skill": "Charge Strength S (Random)",
+    "Fp": 20,
+    "Frequency": 2400,
+    "IngredientRatio": 20.8,
+    "SkillRatio": 3.9,
+    "Ancestor": 155,
+    "EvolutionCount": 2,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 23,
+    "Ingredients1": [{ "Ingredient": "ginger", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "ginger", "Amount": 2, "Order": "A" },
+      { "Ingredient": "herb", "Amount": 2, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "ginger", "Amount": 4, "Order": "A" },
+      { "Ingredient": "herb", "Amount": 3, "Order": "B" },
+      { "Ingredient": "oil", "Amount": 3, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 176,
+    "Name": "Togetic",
+    "SleepType": "snoozing",
+    "Type": "fairy",
+    "ExpertOf": "Skills",
+    "Skill": "Metronome",
+    "Fp": 12,
+    "Frequency": 3800,
+    "IngredientRatio": 16.3,
+    "SkillRatio": 5.6,
+    "Ancestor": 175,
+    "EvolutionCount": 1,
+    "EvolutionLeft": 1,
+    "HasEvolution": "false",
+    "CarryLimit": 10,
+    "Ingredients1": [{ "Ingredient": "egg", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "egg", "Amount": 2, "Order": "A" },
+      { "Ingredient": "ginger", "Amount": 2, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "egg", "Amount": 4, "Order": "A" },
+      { "Ingredient": "ginger", "Amount": 4, "Order": "B" },
+      { "Ingredient": "cacao", "Amount": 3, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 179,
+    "Name": "Mareep",
+    "SleepType": "snoozing",
+    "Type": "electric",
+    "ExpertOf": "Skills",
+    "Skill": "Charge Strength M",
+    "Fp": 5,
+    "Frequency": 4600,
+    "IngredientRatio": 12.8,
+    "SkillRatio": 4.7,
+    "Ancestor": 179,
+    "EvolutionCount": 0,
+    "EvolutionLeft": 2,
+    "HasEvolution": "false",
+    "CarryLimit": 9,
+    "Ing1": ["herb", 1, 2, 4],
+    "Ing2": ["egg", 3, 4]
+  },
+  {
+    "Id": 180,
+    "Name": "Flaaffy",
+    "SleepType": "snoozing",
+    "Type": "electric",
+    "ExpertOf": "Skills",
+    "Skill": "Charge Strength M",
+    "Fp": 12,
+    "Frequency": 3300,
+    "IngredientRatio": 12.7,
+    "SkillRatio": 4.6,
+    "Ancestor": 179,
+    "EvolutionCount": 1,
+    "EvolutionLeft": 1,
+    "HasEvolution": "false",
+    "CarryLimit": 11,
+    "Ing1": ["herb", 1, 2, 4],
+    "Ing2": ["egg", 3, 4]
+  },
+  {
+    "Id": 181,
+    "Name": "Ampharos",
+    "SleepType": "snoozing",
+    "Type": "electric",
+    "ExpertOf": "Skills",
+    "Skill": "Charge Strength M",
+    "Fp": 20,
+    "Frequency": 2500,
+    "IngredientRatio": 13,
+    "SkillRatio": 4.7,
+    "Ancestor": 179,
+    "EvolutionCount": 2,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 15,
+    "Ing1": ["herb", 1, 2, 4],
+    "Ing2": ["egg", 3, 4]
+  },
+  {
+    "Id": 196,
+    "Name": "Espeon",
+    "SleepType": "snoozing",
+    "Type": "psychic",
+    "ExpertOf": "Skills",
+    "Skill": "Charge Strength M",
+    "Fp": 20,
+    "Frequency": 2400,
+    "IngredientRatio": 16.4,
+    "SkillRatio": 4.4,
+    "Ancestor": 133,
+    "EvolutionCount": 1,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 16,
+    "Ingredients1": [{ "Ingredient": "milk", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "milk", "Amount": 2, "Order": "A" },
+      { "Ingredient": "cacao", "Amount": 1, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "milk", "Amount": 4, "Order": "A" },
+      { "Ingredient": "cacao", "Amount": 2, "Order": "B" },
+      { "Ingredient": "sausage", "Amount": 3, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 199,
+    "Name": "Slowking",
+    "SleepType": "snoozing",
+    "Type": "water",
+    "ExpertOf": "Skills",
+    "Skill": "Energizing Cheer S",
+    "Fp": 20,
+    "Frequency": 3400,
+    "IngredientRatio": 16.6,
+    "SkillRatio": 7.4,
+    "Ancestor": 79,
+    "EvolutionCount": 1,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 17,
+    "Ingredients1": [{ "Ingredient": "cacao", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "cacao", "Amount": 2, "Order": "A" },
+      { "Ingredient": "tail", "Amount": 1, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "cacao", "Amount": 4, "Order": "A" },
+      { "Ingredient": "tail", "Amount": 2, "Order": "B" },
+      { "Ingredient": "tomato", "Amount": 5, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 202,
+    "Name": "Wobbuffet",
+    "SleepType": "snoozing",
+    "Type": "psychic",
+    "ExpertOf": "Skills",
+    "Skill": "Energizing Cheer S",
+    "Fp": 7,
+    "Frequency": 3500,
+    "IngredientRatio": 21.1,
+    "SkillRatio": 6.4,
+    "Ancestor": 360,
+    "EvolutionCount": 1,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 13,
+    "Ingredients1": [{ "Ingredient": "apple", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "apple", "Amount": 2, "Order": "A" },
+      { "Ingredient": "mushroom", "Amount": 1, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "apple", "Amount": 4, "Order": "A" },
+      { "Ingredient": "mushroom", "Amount": 2, "Order": "B" },
+      { "Ingredient": "oil", "Amount": 3, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 243,
+    "Name": "Raikou",
+    "SleepType": "snoozing",
+    "Type": "electric",
+    "ExpertOf": "Skills",
+    "Skill": "Helper Boost",
+    "Fp": 30,
+    "Frequency": 2100,
+    "IngredientRatio": 19.2,
+    "SkillRatio": 1.9,
+    "Ancestor": null,
+    "EvolutionCount": -1,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 22,
+    "Ingredients1": [{ "Ingredient": "sausage", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "sausage", "Amount": 2, "Order": "A" },
+      { "Ingredient": "herb", "Amount": 2, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "sausage", "Amount": 4, "Order": "A" },
+      { "Ingredient": "herb", "Amount": 3, "Order": "B" },
+      { "Ingredient": "leek", "Amount": 2, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 244,
+    "Name": "Entei",
+    "SleepType": "snoozing",
+    "Type": "fire",
+    "ExpertOf": "Skills",
+    "Skill": "Helper Boost",
+    "Fp": 30,
+    "Frequency": 2400,
+    "IngredientRatio": 18.7,
+    "SkillRatio": 2.3,
+    "Ancestor": null,
+    "EvolutionCount": -1,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 19,
+    "Ingredients1": [{ "Ingredient": "oil", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "oil", "Amount": 2, "Order": "A" },
+      { "Ingredient": "tomato", "Amount": 2, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "oil", "Amount": 4, "Order": "A" },
+      { "Ingredient": "tomato", "Amount": 4, "Order": "B" },
+      { "Ingredient": "mushroom", "Amount": 3, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 280,
+    "Name": "Ralts",
+    "SleepType": "snoozing",
+    "Type": "psychic",
+    "ExpertOf": "Skills",
+    "Skill": "Energy for Everyone S",
+    "Fp": 5,
+    "Frequency": 4800,
+    "IngredientRatio": 14.5,
+    "SkillRatio": 4.3,
+    "Ancestor": 280,
+    "EvolutionCount": 0,
+    "EvolutionLeft": 2,
+    "HasEvolution": "false",
+    "CarryLimit": 9,
+    "Ingredients1": [{ "Ingredient": "apple", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "apple", "Amount": 2, "Order": "A" },
+      { "Ingredient": "corn", "Amount": 1, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "apple", "Amount": 4, "Order": "A" },
+      { "Ingredient": "corn", "Amount": 2, "Order": "B" },
+      { "Ingredient": "leek", "Amount": 2, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 281,
+    "Name": "Kirlia",
+    "SleepType": "snoozing",
+    "Type": "psychic",
+    "ExpertOf": "Skills",
+    "Skill": "Energy for Everyone S",
+    "Fp": 12,
+    "Frequency": 3500,
+    "IngredientRatio": 14.6,
+    "SkillRatio": 4.3,
+    "Ancestor": 280,
+    "EvolutionCount": 1,
+    "EvolutionLeft": 1,
+    "HasEvolution": "false",
+    "CarryLimit": 13,
+    "Ingredients1": [{ "Ingredient": "apple", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "apple", "Amount": 2, "Order": "A" },
+      { "Ingredient": "corn", "Amount": 1, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "apple", "Amount": 4, "Order": "A" },
+      { "Ingredient": "corn", "Amount": 2, "Order": "B" },
+      { "Ingredient": "leek", "Amount": 2, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 282,
+    "Name": "Gardevoir",
+    "SleepType": "snoozing",
+    "Type": "psychic",
+    "ExpertOf": "Skills",
+    "Skill": "Energy for Everyone S",
+    "Fp": 20,
+    "Frequency": 2400,
+    "IngredientRatio": 14.4,
+    "SkillRatio": 4.2,
+    "Ancestor": 280,
+    "EvolutionCount": 2,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 18,
+    "Ingredients1": [{ "Ingredient": "apple", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "apple", "Amount": 2, "Order": "A" },
+      { "Ingredient": "corn", "Amount": 1, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "apple", "Amount": 4, "Order": "A" },
+      { "Ingredient": "corn", "Amount": 2, "Order": "B" },
+      { "Ingredient": "leek", "Amount": 2, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 287,
+    "Name": "Slakoth",
+    "SleepType": "snoozing",
+    "Type": "normal",
+    "ExpertOf": "Berries",
+    "Skill": "Ingredient Magnet S",
+    "Fp": 5,
+    "Frequency": 4900,
+    "IngredientRatio": 21.6,
+    "SkillRatio": 1.9,
+    "Ancestor": 287,
+    "EvolutionCount": 0,
+    "EvolutionLeft": 2,
+    "HasEvolution": "false",
+    "CarryLimit": 7,
+    "Ingredients1": [{ "Ingredient": "tomato", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "tomato", "Amount": 2, "Order": "A" },
+      { "Ingredient": "honey", "Amount": 2, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "tomato", "Amount": 4, "Order": "A" },
+      { "Ingredient": "honey", "Amount": 4, "Order": "B" },
+      { "Ingredient": "apple", "Amount": 4, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 289,
+    "Name": "Slaking",
+    "SleepType": "snoozing",
+    "Type": "normal",
+    "ExpertOf": "Berries",
+    "Skill": "Ingredient Magnet S",
+    "Fp": 22,
+    "Frequency": 3800,
+    "IngredientRatio": 33.9,
+    "SkillRatio": 6.7,
+    "Ancestor": 287,
+    "EvolutionCount": 2,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 12,
+    "Ingredients1": [{ "Ingredient": "tomato", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "tomato", "Amount": 2, "Order": "A" },
+      { "Ingredient": "honey", "Amount": 2, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "tomato", "Amount": 4, "Order": "A" },
+      { "Ingredient": "honey", "Amount": 4, "Order": "B" },
+      { "Ingredient": "apple", "Amount": 4, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 468,
+    "Name": "Togekiss",
+    "SleepType": "snoozing",
+    "Type": "fairy",
+    "ExpertOf": "Skills",
+    "Skill": "Metronome",
+    "Fp": 22,
+    "Frequency": 2600,
+    "IngredientRatio": 15.8,
+    "SkillRatio": 5.3,
+    "Ancestor": 175,
+    "EvolutionCount": 2,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 16,
+    "Ingredients1": [{ "Ingredient": "egg", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "egg", "Amount": 2, "Order": "A" },
+      { "Ingredient": "ginger", "Amount": 2, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "egg", "Amount": 4, "Order": "A" },
+      { "Ingredient": "ginger", "Amount": 4, "Order": "B" },
+      { "Ingredient": "cacao", "Amount": 3, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 700,
+    "Name": "Sylveon",
+    "SleepType": "snoozing",
+    "Type": "fairy",
+    "ExpertOf": "Skills",
+    "Skill": "Energy for Everyone S",
+    "Fp": 20,
+    "Frequency": 2600,
+    "IngredientRatio": 17.8,
+    "SkillRatio": 4,
+    "Ancestor": 133,
+    "EvolutionCount": 1,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 15,
+    "Ingredients1": [{ "Ingredient": "milk", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "milk", "Amount": 2, "Order": "A" },
+      { "Ingredient": "cacao", "Amount": 1, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "milk", "Amount": 4, "Order": "A" },
+      { "Ingredient": "cacao", "Amount": 2, "Order": "B" },
+      { "Ingredient": "sausage", "Amount": 3, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 702,
+    "Name": "Dedenne",
+    "SleepType": "snoozing",
+    "Type": "electric",
+    "ExpertOf": "Skills",
+    "Skill": "Tasty Chance S",
+    "Fp": 16,
+    "Frequency": 2500,
+    "IngredientRatio": 17.7,
+    "SkillRatio": 4.5,
+    "Ancestor": null,
+    "EvolutionCount": -1,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 19,
+    "Ingredients1": [{ "Ingredient": "apple", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "apple", "Amount": 2, "Order": "A" },
+      { "Ingredient": "cacao", "Amount": 1, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "apple", "Amount": 4, "Order": "A" },
+      { "Ingredient": "cacao", "Amount": 2, "Order": "B" },
+      { "Ingredient": "corn", "Amount": 2, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 764,
+    "Name": "Comfey",
+    "SleepType": "snoozing",
+    "Type": "fairy",
+    "ExpertOf": "Ingredients",
+    "Skill": "Energizing Cheer S",
+    "Fp": 16,
+    "Frequency": 2500,
+    "IngredientRatio": 13.9,
+    "SkillRatio": 2.2,
+    "Ancestor": null,
+    "EvolutionCount": -1,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 20,
+    "Ingredients1": [{ "Ingredient": "corn", "Amount": 2, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "corn", "Amount": 5, "Order": "A" },
+      { "Ingredient": "ginger", "Amount": 6, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "corn", "Amount": 7, "Order": "A" },
+      { "Ingredient": "ginger", "Amount": 9, "Order": "B" },
+      { "Ingredient": "cacao", "Amount": 7, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 909,
+    "Name": "Fuecoco",
+    "SleepType": "snoozing",
+    "Type": "fire",
+    "ExpertOf": "Ingredients",
+    "Skill": "Charge Energy S",
+    "Fp": 5,
+    "Frequency": 4200,
+    "IngredientRatio": 25.4,
+    "SkillRatio": 5.3,
+    "Ancestor": 909,
+    "EvolutionCount": 0,
+    "EvolutionLeft": 2,
+    "HasEvolution": "false",
+    "CarryLimit": 11,
+    "Ingredients1": [{ "Ingredient": "apple", "Amount": 2, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "apple", "Amount": 5, "Order": "A" },
+      { "Ingredient": "sausage", "Amount": 4, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "apple", "Amount": 7, "Order": "A" },
+      { "Ingredient": "sausage", "Amount": 6, "Order": "B" },
+      { "Ingredient": "herb", "Amount": 5, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 910,
+    "Name": "Crocalor",
+    "SleepType": "snoozing",
+    "Type": "fire",
+    "ExpertOf": "Ingredients",
+    "Skill": "Charge Energy S",
+    "Fp": 12,
+    "Frequency": 3100,
+    "IngredientRatio": 24.7,
+    "SkillRatio": 5,
+    "Ancestor": 909,
+    "EvolutionCount": 1,
+    "EvolutionLeft": 1,
+    "HasEvolution": "false",
+    "CarryLimit": 16,
+    "Ingredients1": [{ "Ingredient": "apple", "Amount": 2, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "apple", "Amount": 5, "Order": "A" },
+      { "Ingredient": "sausage", "Amount": 4, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "apple", "Amount": 7, "Order": "A" },
+      { "Ingredient": "sausage", "Amount": 6, "Order": "B" },
+      { "Ingredient": "herb", "Amount": 5, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 7,
+    "Name": "Squirtle",
+    "SleepType": "slumbering",
+    "Type": "water",
+    "ExpertOf": "Ingredients",
+    "Skill": "Ingredient Magnet S",
+    "Fp": 5,
+    "Frequency": 4500,
+    "IngredientRatio": 27.1,
+    "SkillRatio": 2,
+    "Ancestor": 7,
+    "EvolutionCount": 0,
+    "EvolutionLeft": 2,
+    "HasEvolution": "false",
+    "CarryLimit": 10,
+    "Ingredients1": [{ "Ingredient": "milk", "Amount": 2, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "milk", "Amount": 5, "Order": "A" },
+      { "Ingredient": "cacao", "Amount": 3, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "milk", "Amount": 7, "Order": "A" },
+      { "Ingredient": "cacao", "Amount": 5, "Order": "B" },
+      { "Ingredient": "sausage", "Amount": 7, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 8,
+    "Name": "Wartortle",
+    "SleepType": "slumbering",
+    "Type": "water",
+    "ExpertOf": "Ingredients",
+    "Skill": "Ingredient Magnet S",
+    "Fp": 12,
+    "Frequency": 3400,
+    "IngredientRatio": 27.1,
+    "SkillRatio": 2,
+    "Ancestor": 7,
+    "EvolutionCount": 1,
+    "EvolutionLeft": 1,
+    "HasEvolution": "false",
+    "CarryLimit": 14,
+    "Ingredients1": [{ "Ingredient": "milk", "Amount": 2, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "milk", "Amount": 5, "Order": "A" },
+      { "Ingredient": "cacao", "Amount": 3, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "milk", "Amount": 7, "Order": "A" },
+      { "Ingredient": "cacao", "Amount": 5, "Order": "B" },
+      { "Ingredient": "sausage", "Amount": 7, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 9,
+    "Name": "Blastoise",
+    "SleepType": "slumbering",
+    "Type": "water",
+    "ExpertOf": "Ingredients",
+    "Skill": "Ingredient Magnet S",
+    "Fp": 20,
+    "Frequency": 2800,
+    "IngredientRatio": 27.5,
+    "SkillRatio": 2.1,
+    "Ancestor": 7,
+    "EvolutionCount": 2,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 17,
+    "Ingredients1": [{ "Ingredient": "milk", "Amount": 2, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "milk", "Amount": 5, "Order": "A" },
+      { "Ingredient": "cacao", "Amount": 3, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "milk", "Amount": 7, "Order": "A" },
+      { "Ingredient": "cacao", "Amount": 5, "Order": "B" },
+      { "Ingredient": "sausage", "Amount": 7, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 55,
+    "Name": "Golduck",
+    "SleepType": "slumbering",
+    "Type": "water",
+    "ExpertOf": "Skills",
+    "Skill": "Charge Strength S (Random)",
+    "Fp": 12,
+    "Frequency": 3400,
+    "IngredientRatio": 16.2,
+    "SkillRatio": 12.5,
+    "Ancestor": 54,
+    "EvolutionCount": 1,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 14,
+    "Ingredients1": [{ "Ingredient": "cacao", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "cacao", "Amount": 2, "Order": "A" },
+      { "Ingredient": "apple", "Amount": 4, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "cacao", "Amount": 4, "Order": "A" },
+      { "Ingredient": "apple", "Amount": 6, "Order": "B" },
+      { "Ingredient": "sausage", "Amount": 5, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 74,
+    "Name": "Geodude",
+    "SleepType": "slumbering",
+    "Type": "rock",
+    "ExpertOf": "Ingredients",
+    "Skill": "Charge Strength S (Random)",
+    "Fp": 5,
+    "Frequency": 5700,
+    "IngredientRatio": 28.1,
+    "SkillRatio": 5.2,
+    "Ancestor": 74,
+    "EvolutionCount": 0,
+    "EvolutionLeft": 2,
+    "HasEvolution": "false",
+    "CarryLimit": 9,
+    "Ingredients1": [{ "Ingredient": "soy", "Amount": 2, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "soy", "Amount": 5, "Order": "A" },
+      { "Ingredient": "potato", "Amount": 4, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "soy", "Amount": 7, "Order": "A" },
+      { "Ingredient": "potato", "Amount": 6, "Order": "B" },
+      { "Ingredient": "mushroom", "Amount": 4, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 75,
+    "Name": "Graveler",
+    "SleepType": "slumbering",
+    "Type": "rock",
+    "ExpertOf": "Ingredients",
+    "Skill": "Charge Strength S (Random)",
+    "Fp": 12,
+    "Frequency": 4000,
+    "IngredientRatio": 27.2,
+    "SkillRatio": 4.8,
+    "Ancestor": 74,
+    "EvolutionCount": 1,
+    "EvolutionLeft": 1,
+    "HasEvolution": "false",
+    "CarryLimit": 12,
+    "Ingredients1": [{ "Ingredient": "soy", "Amount": 2, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "soy", "Amount": 5, "Order": "A" },
+      { "Ingredient": "potato", "Amount": 4, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "soy", "Amount": 7, "Order": "A" },
+      { "Ingredient": "potato", "Amount": 6, "Order": "B" },
+      { "Ingredient": "mushroom", "Amount": 4, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 76,
+    "Name": "Golem",
+    "SleepType": "slumbering",
+    "Type": "rock",
+    "ExpertOf": "Ingredients",
+    "Skill": "Charge Strength S (Random)",
+    "Fp": 22,
+    "Frequency": 3100,
+    "IngredientRatio": 28,
+    "SkillRatio": 5.2,
+    "Ancestor": 74,
+    "EvolutionCount": 2,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 16,
+    "Ingredients1": [{ "Ingredient": "soy", "Amount": 2, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "soy", "Amount": 5, "Order": "A" },
+      { "Ingredient": "potato", "Amount": 4, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "soy", "Amount": 7, "Order": "A" },
+      { "Ingredient": "potato", "Amount": 6, "Order": "B" },
+      { "Ingredient": "mushroom", "Amount": 4, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 81,
+    "Name": "Magnemite",
+    "SleepType": "slumbering",
+    "Type": "steel",
+    "ExpertOf": "Skills",
+    "Skill": "Cooking Power-Up S",
+    "Fp": 5,
+    "Frequency": 5800,
+    "IngredientRatio": 18.2,
+    "SkillRatio": 6.4,
+    "Ancestor": 81,
+    "EvolutionCount": 0,
+    "EvolutionLeft": 2,
+    "HasEvolution": "false",
+    "CarryLimit": 8,
+    "Ing1": ["oil", 1, 2, 4],
+    "Ing2": ["herb", 2, 3]
+  },
+  {
+    "Id": 82,
+    "Name": "Magneton",
+    "SleepType": "slumbering",
+    "Type": "steel",
+    "ExpertOf": "Skills",
+    "Skill": "Cooking Power-Up S",
+    "Fp": 12,
+    "Frequency": 4000,
+    "IngredientRatio": 18.2,
+    "SkillRatio": 6.3,
+    "Ancestor": 81,
+    "EvolutionCount": 1,
+    "EvolutionLeft": 1,
+    "HasEvolution": "false",
+    "CarryLimit": 11,
+    "Ing1": ["oil", 1, 2, 4],
+    "Ing2": ["herb", 2, 3]
+  },
+  {
+    "Id": 84,
+    "Name": "Doduo",
+    "SleepType": "slumbering",
+    "Type": "flying",
+    "ExpertOf": "Berries",
+    "Skill": "Charge Energy S",
+    "Fp": 5,
+    "Frequency": 3800,
+    "IngredientRatio": 18.4,
+    "SkillRatio": 2,
+    "Ancestor": 84,
+    "EvolutionCount": 0,
+    "EvolutionLeft": 1,
+    "HasEvolution": "false",
+    "CarryLimit": 13,
+    "Ingredients1": [{ "Ingredient": "soy", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "soy", "Amount": 2, "Order": "A" },
+      { "Ingredient": "cacao", "Amount": 1, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "soy", "Amount": 4, "Order": "A" },
+      { "Ingredient": "cacao", "Amount": 2, "Order": "B" },
+      { "Ingredient": "sausage", "Amount": 3, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 85,
+    "Name": "Dodrio",
+    "SleepType": "slumbering",
+    "Type": "flying",
+    "ExpertOf": "Berries",
+    "Skill": "Charge Energy S",
+    "Fp": 12,
+    "Frequency": 2400,
+    "IngredientRatio": 18.4,
+    "SkillRatio": 2,
+    "Ancestor": 84,
+    "EvolutionCount": 1,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 21,
+    "Ingredients1": [{ "Ingredient": "soy", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "soy", "Amount": 2, "Order": "A" },
+      { "Ingredient": "cacao", "Amount": 1, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "soy", "Amount": 4, "Order": "A" },
+      { "Ingredient": "cacao", "Amount": 2, "Order": "B" },
+      { "Ingredient": "sausage", "Amount": 3, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 95,
+    "Name": "Onix",
+    "SleepType": "slumbering",
+    "Type": "rock",
+    "ExpertOf": "Berries",
+    "Skill": "Ingredient Magnet S",
+    "Fp": 16,
+    "Frequency": 3100,
+    "IngredientRatio": 13.2,
+    "SkillRatio": 2.3,
+    "Ancestor": 95,
+    "EvolutionCount": 0,
+    "EvolutionLeft": 1,
+    "HasEvolution": "false",
+    "CarryLimit": 22,
+    "Ingredients1": [{ "Ingredient": "tomato", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "tomato", "Amount": 2, "Order": "A" },
+      { "Ingredient": "sausage", "Amount": 2, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "tomato", "Amount": 4, "Order": "A" },
+      { "Ingredient": "sausage", "Amount": 4, "Order": "B" },
+      { "Ingredient": "potato", "Amount": 3, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 104,
+    "Name": "Cubone",
+    "SleepType": "slumbering",
+    "Type": "ground",
+    "ExpertOf": "Berries",
+    "Skill": "Charge Energy S",
+    "Fp": 5,
+    "Frequency": 4800,
+    "IngredientRatio": 22.3,
+    "SkillRatio": 4.4,
+    "Ancestor": 104,
+    "EvolutionCount": 0,
+    "EvolutionLeft": 1,
+    "HasEvolution": "false",
+    "CarryLimit": 10,
+    "Ing1": ["ginger", 1, 2, 4],
+    "Ing2": ["cacao", 2, 3]
+  },
+  {
+    "Id": 105,
+    "Name": "Marowak",
+    "SleepType": "slumbering",
+    "Type": "ground",
+    "ExpertOf": "Berries",
+    "Skill": "Charge Energy S",
+    "Fp": 12,
+    "Frequency": 3500,
+    "IngredientRatio": 22.5,
+    "SkillRatio": 4.5,
+    "Ancestor": 104,
+    "EvolutionCount": 1,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 15,
+    "Ing1": ["ginger", 1, 2, 4],
+    "Ing2": ["cacao", 2, 3]
+  },
+  {
+    "Id": 134,
+    "Name": "Vaporeon",
+    "SleepType": "slumbering",
+    "Type": "water",
+    "ExpertOf": "Skills",
+    "Skill": "Ingredient Magnet S",
+    "Fp": 20,
+    "Frequency": 3100,
+    "IngredientRatio": 21.2,
+    "SkillRatio": 6.1,
+    "Ancestor": 133,
+    "EvolutionCount": 1,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 13,
+    "Ingredients1": [{ "Ingredient": "milk", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "milk", "Amount": 2, "Order": "A" },
+      { "Ingredient": "cacao", "Amount": 1, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "milk", "Amount": 4, "Order": "A" },
+      { "Ingredient": "cacao", "Amount": 2, "Order": "B" },
+      { "Ingredient": "sausage", "Amount": 3, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 158,
+    "Name": "Totodile",
+    "SleepType": "slumbering",
+    "Type": "water",
+    "ExpertOf": "Berries",
+    "Skill": "Charge Strength S (Random)",
+    "Fp": 5,
+    "Frequency": 4500,
+    "IngredientRatio": 25.3,
+    "SkillRatio": 5.2,
+    "Ancestor": 158,
+    "EvolutionCount": 0,
+    "EvolutionLeft": 2,
+    "HasEvolution": "false",
+    "CarryLimit": 11,
+    "Ing1": ["sausage", 1, 2, 4],
+    "Ing2": ["oil", 2, 3]
+  },
+  {
+    "Id": 159,
+    "Name": "Croconaw",
+    "SleepType": "slumbering",
+    "Type": "water",
+    "ExpertOf": "Berries",
+    "Skill": "Charge Strength S (Random)",
+    "Fp": 12,
+    "Frequency": 3400,
+    "IngredientRatio": 25.3,
+    "SkillRatio": 5.2,
+    "Ancestor": 158,
+    "EvolutionCount": 1,
+    "EvolutionLeft": 1,
+    "HasEvolution": "false",
+    "CarryLimit": 15,
+    "Ing1": ["sausage", 1, 2, 4],
+    "Ing2": ["oil", 2, 3]
+  },
+  {
+    "Id": 160,
+    "Name": "Feraligatr",
+    "SleepType": "slumbering",
+    "Type": "water",
+    "ExpertOf": "Berries",
+    "Skill": "Charge Strength S (Random)",
+    "Fp": 20,
+    "Frequency": 2800,
+    "IngredientRatio": 25.7,
+    "SkillRatio": 5.5,
+    "Ancestor": 158,
+    "EvolutionCount": 2,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 19,
+    "Ing1": ["sausage", 1, 2, 4],
+    "Ing2": ["oil", 2, 3]
+  },
+  {
+    "Id": 172,
+    "Name": "Pichu",
+    "SleepType": "slumbering",
+    "Type": "electric",
+    "ExpertOf": "Berries",
+    "Skill": "Charge Strength S",
+    "Fp": 5,
+    "Frequency": 4300,
+    "IngredientRatio": 21,
+    "SkillRatio": 2.3,
+    "Ancestor": 172,
+    "EvolutionCount": 0,
+    "EvolutionLeft": 2,
+    "HasEvolution": "false",
+    "CarryLimit": 10,
+    "Ingredients1": [{ "Ingredient": "apple", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "apple", "Amount": 2, "Order": "A" },
+      { "Ingredient": "ginger", "Amount": 2, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "apple", "Amount": 4, "Order": "A" },
+      { "Ingredient": "ginger", "Amount": 3, "Order": "B" },
+      { "Ingredient": "egg", "Amount": 3, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 173,
+    "Name": "Cleffa",
+    "SleepType": "slumbering",
+    "Type": "fairy",
+    "ExpertOf": "Berries",
+    "Skill": "Metronome",
+    "Fp": 5,
+    "Frequency": 5600,
+    "IngredientRatio": 16.4,
+    "SkillRatio": 3.4,
+    "Ancestor": 173,
+    "EvolutionCount": 0,
+    "EvolutionLeft": 2,
+    "HasEvolution": "false",
+    "CarryLimit": 10,
+    "Ingredients1": [{ "Ingredient": "apple", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "apple", "Amount": 2, "Order": "A" },
+      { "Ingredient": "honey", "Amount": 2, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "apple", "Amount": 4, "Order": "A" },
+      { "Ingredient": "honey", "Amount": 3, "Order": "B" },
+      { "Ingredient": "soy", "Amount": 3, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 174,
+    "Name": "Igglybuff",
+    "SleepType": "slumbering",
+    "Type": "fairy",
+    "ExpertOf": "Skills",
+    "Skill": "Energy for Everyone S",
+    "Fp": 5,
+    "Frequency": 5200,
+    "IngredientRatio": 17,
+    "SkillRatio": 3.8,
+    "Ancestor": 174,
+    "EvolutionCount": 0,
+    "EvolutionLeft": 2,
+    "HasEvolution": "false",
+    "CarryLimit": 8,
+    "Ingredients1": [{ "Ingredient": "honey", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "honey", "Amount": 2, "Order": "A" },
+      { "Ingredient": "oil", "Amount": 2, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "honey", "Amount": 4, "Order": "A" },
+      { "Ingredient": "oil", "Amount": 3, "Order": "B" },
+      { "Ingredient": "cacao", "Amount": 2, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 175,
+    "Name": "Togepi",
+    "SleepType": "slumbering",
+    "Type": "fairy",
+    "ExpertOf": "Skills",
+    "Skill": "Metronome",
+    "Fp": 5,
+    "Frequency": 4800,
+    "IngredientRatio": 15.1,
+    "SkillRatio": 4.9,
+    "Ancestor": 175,
+    "EvolutionCount": 0,
+    "EvolutionLeft": 2,
+    "HasEvolution": "false",
+    "CarryLimit": 8,
+    "Ingredients1": [{ "Ingredient": "egg", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "egg", "Amount": 2, "Order": "A" },
+      { "Ingredient": "ginger", "Amount": 2, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "egg", "Amount": 4, "Order": "A" },
+      { "Ingredient": "ginger", "Amount": 4, "Order": "B" },
+      { "Ingredient": "cacao", "Amount": 3, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 185,
+    "Name": "Sudowoodo",
+    "SleepType": "slumbering",
+    "Type": "rock",
+    "ExpertOf": "Skills",
+    "Skill": "Charge Strength M",
+    "Fp": 7,
+    "Frequency": 4000,
+    "IngredientRatio": 21.7,
+    "SkillRatio": 7.2,
+    "Ancestor": 438,
+    "EvolutionCount": 1,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 16,
+    "Ingredients1": [{ "Ingredient": "tomato", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "tomato", "Amount": 2, "Order": "A" },
+      { "Ingredient": "soy", "Amount": 2, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "tomato", "Amount": 4, "Order": "A" },
+      { "Ingredient": "soy", "Amount": 4, "Order": "B" },
+      { "Ingredient": "mushroom", "Amount": 2, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 208,
+    "Name": "Steelix",
+    "SleepType": "slumbering",
+    "Type": "steel",
+    "ExpertOf": "Berries",
+    "Skill": "Ingredient Magnet S",
+    "Fp": 20,
+    "Frequency": 3000,
+    "IngredientRatio": 15.4,
+    "SkillRatio": 3.2,
+    "Ancestor": 95,
+    "EvolutionCount": 1,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 25,
+    "Ingredients1": [{ "Ingredient": "tomato", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "tomato", "Amount": 2, "Order": "A" },
+      { "Ingredient": "sausage", "Amount": 2, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "tomato", "Amount": 4, "Order": "A" },
+      { "Ingredient": "sausage", "Amount": 3, "Order": "B" },
+      { "Ingredient": "potato", "Amount": 3, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 246,
+    "Name": "Larvitar",
+    "SleepType": "slumbering",
+    "Type": "rock",
+    "ExpertOf": "Ingredients",
+    "Skill": "Charge Energy S",
+    "Fp": 5,
+    "Frequency": 4800,
+    "IngredientRatio": 23.8,
+    "SkillRatio": 4.1,
+    "Ancestor": 246,
+    "EvolutionCount": 0,
+    "EvolutionLeft": 2,
+    "HasEvolution": "false",
+    "CarryLimit": 9,
+    "Ingredients1": [{ "Ingredient": "ginger", "Amount": 2, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "ginger", "Amount": 5, "Order": "A" },
+      { "Ingredient": "soy", "Amount": 5, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "ginger", "Amount": 7, "Order": "A" },
+      { "Ingredient": "soy", "Amount": 8, "Order": "B" },
+      { "Ingredient": "sausage", "Amount": 8, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 247,
+    "Name": "Pupitar",
+    "SleepType": "slumbering",
+    "Type": "rock",
+    "ExpertOf": "Ingredients",
+    "Skill": "Charge Energy S",
+    "Fp": 12,
+    "Frequency": 3600,
+    "IngredientRatio": 24.7,
+    "SkillRatio": 4.5,
+    "Ancestor": 246,
+    "EvolutionCount": 1,
+    "EvolutionLeft": 1,
+    "HasEvolution": "false",
+    "CarryLimit": 13,
+    "Ingredients1": [{ "Ingredient": "ginger", "Amount": 2, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "ginger", "Amount": 5, "Order": "A" },
+      { "Ingredient": "soy", "Amount": 5, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "ginger", "Amount": 7, "Order": "A" },
+      { "Ingredient": "soy", "Amount": 8, "Order": "B" },
+      { "Ingredient": "sausage", "Amount": 8, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 333,
+    "Name": "Swablu",
+    "SleepType": "slumbering",
+    "Type": "flying",
+    "ExpertOf": "Berries",
+    "Skill": "Charge Energy S",
+    "Fp": 5,
+    "Frequency": 4200,
+    "IngredientRatio": 17.7,
+    "SkillRatio": 3.2,
+    "Ancestor": 333,
+    "EvolutionCount": 0,
+    "EvolutionLeft": 1,
+    "HasEvolution": "false",
+    "CarryLimit": 12,
+    "Ingredients1": [{ "Ingredient": "egg", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "egg", "Amount": 2, "Order": "A" },
+      { "Ingredient": "soy", "Amount": 3, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "egg", "Amount": 4, "Order": "A" },
+      { "Ingredient": "soy", "Amount": 4, "Order": "B" },
+      { "Ingredient": "apple", "Amount": 5, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 360,
+    "Name": "Wynaut",
+    "SleepType": "slumbering",
+    "Type": "psychic",
+    "ExpertOf": "Skills",
+    "Skill": "Energizing Cheer S",
+    "Fp": 5,
+    "Frequency": 5800,
+    "IngredientRatio": 21.3,
+    "SkillRatio": 5.9,
+    "Ancestor": 360,
+    "EvolutionCount": 0,
+    "EvolutionLeft": 1,
+    "HasEvolution": "false",
+    "CarryLimit": 7,
+    "Ingredients1": [{ "Ingredient": "apple", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "apple", "Amount": 2, "Order": "A" },
+      { "Ingredient": "mushroom", "Amount": 1, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "apple", "Amount": 4, "Order": "A" },
+      { "Ingredient": "mushroom", "Amount": 2, "Order": "B" },
+      { "Ingredient": "oil", "Amount": 3, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 363,
+    "Name": "Spheal",
+    "SleepType": "slumbering",
+    "Type": "ice",
+    "ExpertOf": "Berries",
+    "Skill": "Ingredient Magnet S",
+    "Fp": 5,
+    "Frequency": 5600,
+    "IngredientRatio": 22.4,
+    "SkillRatio": 2.3,
+    "Ancestor": 363,
+    "EvolutionCount": 0,
+    "EvolutionLeft": 2,
+    "HasEvolution": "false",
+    "CarryLimit": 9,
+    "Ingredients1": [{ "Ingredient": "oil", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "oil", "Amount": 2, "Order": "A" },
+      { "Ingredient": "sausage", "Amount": 3, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "oil", "Amount": 4, "Order": "A" },
+      { "Ingredient": "sausage", "Amount": 4, "Order": "B" },
+      { "Ingredient": "ginger", "Amount": 4, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 364,
+    "Name": "Sealeo",
+    "SleepType": "slumbering",
+    "Type": "ice",
+    "ExpertOf": "Berries",
+    "Skill": "Ingredient Magnet S",
+    "Fp": 12,
+    "Frequency": 4000,
+    "IngredientRatio": 22.1,
+    "SkillRatio": 2.1,
+    "Ancestor": 363,
+    "EvolutionCount": 1,
+    "EvolutionLeft": 1,
+    "HasEvolution": "false",
+    "CarryLimit": 13,
+    "Ingredients1": [{ "Ingredient": "oil", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "oil", "Amount": 2, "Order": "A" },
+      { "Ingredient": "sausage", "Amount": 3, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "oil", "Amount": 4, "Order": "A" },
+      { "Ingredient": "sausage", "Amount": 4, "Order": "B" },
+      { "Ingredient": "ginger", "Amount": 4, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 365,
+    "Name": "Walrein",
+    "SleepType": "slumbering",
+    "Type": "ice",
+    "ExpertOf": "Berries",
+    "Skill": "Ingredient Magnet S",
+    "Fp": 20,
+    "Frequency": 3000,
+    "IngredientRatio": 22.3,
+    "SkillRatio": 2.2,
+    "Ancestor": 363,
+    "EvolutionCount": 2,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 18,
+    "Ingredients1": [{ "Ingredient": "oil", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "oil", "Amount": 2, "Order": "A" },
+      { "Ingredient": "sausage", "Amount": 3, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "oil", "Amount": 4, "Order": "A" },
+      { "Ingredient": "sausage", "Amount": 4, "Order": "B" },
+      { "Ingredient": "ginger", "Amount": 4, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 438,
+    "Name": "Bonsly",
+    "SleepType": "slumbering",
+    "Type": "rock",
+    "ExpertOf": "Skills",
+    "Skill": "Charge Strength M",
+    "Fp": 5,
+    "Frequency": 6300,
+    "IngredientRatio": 18.9,
+    "SkillRatio": 6.1,
+    "Ancestor": 438,
+    "EvolutionCount": 0,
+    "EvolutionLeft": 1,
+    "HasEvolution": "false",
+    "CarryLimit": 8,
+    "Ingredients1": [{ "Ingredient": "tomato", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "tomato", "Amount": 2, "Order": "A" },
+      { "Ingredient": "soy", "Amount": 2, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "tomato", "Amount": 4, "Order": "A" },
+      { "Ingredient": "soy", "Amount": 4, "Order": "B" },
+      { "Ingredient": "mushroom", "Amount": 2, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 439,
+    "Name": "Mime Jr.",
+    "SleepType": "slumbering",
+    "Type": "psychic",
+    "ExpertOf": "Ingredients",
+    "Skill": "Charge Strength S",
+    "Fp": 5,
+    "Frequency": 4300,
+    "IngredientRatio": 20.1,
+    "SkillRatio": 3.2,
+    "Ancestor": 439,
+    "EvolutionCount": 0,
+    "EvolutionLeft": 1,
+    "HasEvolution": "false",
+    "CarryLimit": 10,
+    "Ingredients1": [{ "Ingredient": "tomato", "Amount": 2, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "tomato", "Amount": 5, "Order": "A" },
+      { "Ingredient": "potato", "Amount": 4, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "tomato", "Amount": 7, "Order": "A" },
+      { "Ingredient": "potato", "Amount": 6, "Order": "B" },
+      { "Ingredient": "leek", "Amount": 4, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 447,
+    "Name": "Riolu",
+    "SleepType": "slumbering",
+    "Type": "fighting",
+    "ExpertOf": "Skills",
+    "Skill": "Dream Shard Magnet S",
+    "Fp": 5,
+    "Frequency": 4200,
+    "IngredientRatio": 12.6,
+    "SkillRatio": 3.8,
+    "Ancestor": 447,
+    "EvolutionCount": 0,
+    "EvolutionLeft": 1,
+    "HasEvolution": "false",
+    "CarryLimit": 9,
+    "Ingredients1": [{ "Ingredient": "oil", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "oil", "Amount": 2, "Order": "A" },
+      { "Ingredient": "potato", "Amount": 2, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "oil", "Amount": 4, "Order": "A" },
+      { "Ingredient": "potato", "Amount": 4, "Order": "B" },
+      { "Ingredient": "egg", "Amount": 4, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 448,
+    "Name": "Lucario",
+    "SleepType": "slumbering",
+    "Type": "fighting",
+    "ExpertOf": "Skills",
+    "Skill": "Dream Shard Magnet S",
+    "Fp": 20,
+    "Frequency": 2600,
+    "IngredientRatio": 15,
+    "SkillRatio": 5.1,
+    "Ancestor": 447,
+    "EvolutionCount": 1,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 14,
+    "Ingredients1": [{ "Ingredient": "oil", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "oil", "Amount": 2, "Order": "A" },
+      { "Ingredient": "potato", "Amount": 2, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "oil", "Amount": 4, "Order": "A" },
+      { "Ingredient": "potato", "Amount": 4, "Order": "B" },
+      { "Ingredient": "egg", "Amount": 4, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 459,
+    "Name": "Snover",
+    "SleepType": "slumbering",
+    "Type": "ice",
+    "ExpertOf": "Ingredients",
+    "Skill": "Charge Strength S (Random)",
+    "Fp": 5,
+    "Frequency": 5600,
+    "IngredientRatio": 25.1,
+    "SkillRatio": 4.4,
+    "Ancestor": 459,
+    "EvolutionCount": 0,
+    "EvolutionLeft": 1,
+    "HasEvolution": "false",
+    "CarryLimit": 10,
+    "Ingredients1": [{ "Ingredient": "tomato", "Amount": 2, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "tomato", "Amount": 5, "Order": "A" },
+      { "Ingredient": "egg", "Amount": 4, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "tomato", "Amount": 7, "Order": "A" },
+      { "Ingredient": "egg", "Amount": 7, "Order": "B" },
+      { "Ingredient": "mushroom", "Amount": 5, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 460,
+    "Name": "Abomasnow",
+    "SleepType": "slumbering",
+    "Type": "ice",
+    "ExpertOf": "Ingredients",
+    "Skill": "Charge Strength S (Random)",
+    "Fp": 12,
+    "Frequency": 3000,
+    "IngredientRatio": 25,
+    "SkillRatio": 4.4,
+    "Ancestor": 459,
+    "EvolutionCount": 1,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 21,
+    "Ingredients1": [{ "Ingredient": "tomato", "Amount": 2, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "tomato", "Amount": 5, "Order": "A" },
+      { "Ingredient": "egg", "Amount": 4, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "tomato", "Amount": 7, "Order": "A" },
+      { "Ingredient": "egg", "Amount": 7, "Order": "B" },
+      { "Ingredient": "mushroom", "Amount": 5, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 462,
+    "Name": "Magnezone",
+    "SleepType": "slumbering",
+    "Type": "steel",
+    "ExpertOf": "Skills",
+    "Skill": "Cooking Power-Up S",
+    "Fp": 22,
+    "Frequency": 3100,
+    "IngredientRatio": 17.9,
+    "SkillRatio": 6.2,
+    "Ancestor": 81,
+    "EvolutionCount": 2,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 13,
+    "Ing1": ["oil", 1, 2, 4],
+    "Ing2": ["herb", 2, 3]
+  },
+  {
+    "Id": 471,
+    "Name": "Glaceon",
+    "SleepType": "slumbering",
+    "Type": "ice",
+    "ExpertOf": "Skills",
+    "Skill": "Cooking Power-Up S",
+    "Fp": 20,
+    "Frequency": 3200,
+    "IngredientRatio": 21.9,
+    "SkillRatio": 6.3,
+    "Ancestor": 133,
+    "EvolutionCount": 1,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 12,
+    "Ingredients1": [{ "Ingredient": "milk", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "milk", "Amount": 2, "Order": "A" },
+      { "Ingredient": "cacao", "Amount": 1, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "milk", "Amount": 4, "Order": "A" },
+      { "Ingredient": "cacao", "Amount": 2, "Order": "B" },
+      { "Ingredient": "sausage", "Amount": 3, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 475,
+    "Name": "Gallade",
+    "SleepType": "slumbering",
+    "Type": "fighting",
+    "ExpertOf": "Skills",
+    "Skill": "Extra Helpful S",
+    "Fp": 22,
+    "Frequency": 2400,
+    "IngredientRatio": 14.7,
+    "SkillRatio": 5.4,
+    "Ancestor": 280,
+    "EvolutionCount": 2,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 19,
+    "Ingredients1": [{ "Ingredient": "apple", "Amount": 1, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "apple", "Amount": 2, "Order": "A" },
+      { "Ingredient": "corn", "Amount": 1, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "apple", "Amount": 4, "Order": "A" },
+      { "Ingredient": "corn", "Amount": 2, "Order": "B" },
+      { "Ingredient": "leek", "Amount": 2, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 759,
+    "Name": "Stufful",
+    "SleepType": "slumbering",
+    "Type": "fighting",
+    "ExpertOf": "Ingredients",
+    "Skill": "Charge Strength S (Random)",
+    "Fp": 5,
+    "Frequency": 4100,
+    "IngredientRatio": 22.5,
+    "SkillRatio": 1.1,
+    "Ancestor": 759,
+    "EvolutionCount": 0,
+    "EvolutionLeft": 1,
+    "HasEvolution": "false",
+    "CarryLimit": 13,
+    "Ingredients1": [{ "Ingredient": "corn", "Amount": 2, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "corn", "Amount": 5, "Order": "A" },
+      { "Ingredient": "sausage", "Amount": 6, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "corn", "Amount": 7, "Order": "A" },
+      { "Ingredient": "sausage", "Amount": 10, "Order": "B" },
+      { "Ingredient": "egg", "Amount": 9, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 760,
+    "Name": "Bewear",
+    "SleepType": "slumbering",
+    "Type": "fighting",
+    "ExpertOf": "Ingredients",
+    "Skill": "Charge Strength S (Random)",
+    "Fp": 12,
+    "Frequency": 2800,
+    "IngredientRatio": 22.9,
+    "SkillRatio": 1.3,
+    "Ancestor": 759,
+    "EvolutionCount": 1,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 20,
+    "Ingredients1": [{ "Ingredient": "corn", "Amount": 2, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "corn", "Amount": 5, "Order": "A" },
+      { "Ingredient": "sausage", "Amount": 6, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "corn", "Amount": 7, "Order": "A" },
+      { "Ingredient": "sausage", "Amount": 10, "Order": "B" },
+      { "Ingredient": "egg", "Amount": 9, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 845,
+    "Name": "Cramorant",
+    "SleepType": "slumbering",
+    "Type": "flying",
+    "ExpertOf": "Ingredients",
+    "Skill": "Tasty Chance S",
+    "Fp": 16,
+    "Frequency": 2700,
+    "IngredientRatio": 16.5,
+    "SkillRatio": 3.3,
+    "Ancestor": null,
+    "EvolutionCount": -1,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 19,
+    "Ingredients1": [{ "Ingredient": "oil", "Amount": 2, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "oil", "Amount": 5, "Order": "A" },
+      { "Ingredient": "potato", "Amount": 4, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "oil", "Amount": 7, "Order": "A" },
+      { "Ingredient": "potato", "Amount": 7, "Order": "B" },
+      { "Ingredient": "egg", "Amount": 8, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 912,
+    "Name": "Quaxly",
+    "SleepType": "slumbering",
+    "Type": "water",
+    "ExpertOf": "Ingredients",
+    "Skill": "Charge Strength M",
+    "Fp": 5,
+    "Frequency": 4800,
+    "IngredientRatio": 26.1,
+    "SkillRatio": 2.8,
+    "Ancestor": 912,
+    "EvolutionCount": 0,
+    "EvolutionLeft": 2,
+    "HasEvolution": "false",
+    "CarryLimit": 10,
+    "Ingredients1": [{ "Ingredient": "soy", "Amount": 2, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "soy", "Amount": 5, "Order": "A" },
+      { "Ingredient": "leek", "Amount": 2, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "soy", "Amount": 7, "Order": "A" },
+      { "Ingredient": "leek", "Amount": 4, "Order": "B" },
+      { "Ingredient": "oil", "Amount": 6, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 913,
+    "Name": "Quaxwell",
+    "SleepType": "slumbering",
+    "Type": "water",
+    "ExpertOf": "Ingredients",
+    "Skill": "Charge Strength M",
+    "Fp": 12,
+    "Frequency": 3600,
+    "IngredientRatio": 25.9,
+    "SkillRatio": 2.7,
+    "Ancestor": 912,
+    "EvolutionCount": 1,
+    "EvolutionLeft": 1,
+    "HasEvolution": "false",
+    "CarryLimit": 14,
+    "Ingredients1": [{ "Ingredient": "soy", "Amount": 2, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "soy", "Amount": 5, "Order": "A" },
+      { "Ingredient": "leek", "Amount": 2, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "soy", "Amount": 7, "Order": "A" },
+      { "Ingredient": "leek", "Amount": 4, "Order": "B" },
+      { "Ingredient": "oil", "Amount": 6, "Order": "C" }
+    ]
+  },
+  {
+    "Id": 914,
+    "Name": "Quaquaval",
+    "SleepType": "slumbering",
+    "Type": "fighting",
+    "ExpertOf": "Ingredients",
+    "Skill": "Charge Strength M",
+    "Fp": 20,
+    "Frequency": 2600,
+    "IngredientRatio": 23.2,
+    "SkillRatio": 2.4,
+    "Ancestor": 912,
+    "EvolutionCount": 2,
+    "EvolutionLeft": 0,
+    "HasEvolution": "true",
+    "CarryLimit": 19,
+    "Ingredients1": [{ "Ingredient": "soy", "Amount": 2, "Order": "A" }],
+    "Ingredients2": [
+      { "Ingredient": "soy", "Amount": 5, "Order": "A" },
+      { "Ingredient": "leek", "Amount": 2, "Order": "B" }
+    ],
+    "Ingredients3": [
+      { "Ingredient": "soy", "Amount": 7, "Order": "A" },
+      { "Ingredient": "leek", "Amount": 4, "Order": "B" },
+      { "Ingredient": "oil", "Amount": 6, "Order": "C" }
+    ]
+  }
+]

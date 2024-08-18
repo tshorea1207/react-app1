@@ -1,0 +1,7 @@
+.expert-tag{
+    width: 5em;
+    text-align: center;
+    border-radius: 1em;
+    font-weight: bold;
+    display: inline-block;
+}

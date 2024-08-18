@@ -1,0 +1,19 @@
+[
+  { "Id": 1, "Name": "Dream Shard Bonus", "Size": "None", "Color": "Gold", "EffectTarget": "Team" },
+  { "Id": 2, "Name": "Energy Recovery Bonus", "Size": "None", "Color": "Gold", "EffectTarget": "Team" },
+  { "Id": 3, "Name": "Helping Bonus", "Size": "None", "Color": "Gold", "EffectTarget": "Team" },
+  { "Id": 4, "Name": "Research EXP Bonus", "Size": "None", "Color": "Gold", "EffectTarget": "Team" },
+  { "Id": 5, "Name": "Sleep EXP Bonus", "Size": "None", "Color": "Gold", "EffectTarget": "Team" },
+  { "Id": 6, "Name": "Berry Finding", "Size": "S", "Color": "Gold", "EffectTarget": "Self" },
+  { "Id": 7, "Name": "Skill Level Up", "Size": "M", "Color": "Gold", "EffectTarget": "Self" },
+  { "Id": 8, "Name": "Skill Level Up", "Size": "S", "Color": "Blue", "EffectTarget": "Self" },
+  { "Id": 9, "Name": "Helping Speed", "Size": "M", "Color": "Blue", "EffectTarget": "Self" },
+  { "Id": 10, "Name": "Helping Speed", "Size": "S", "Color": "White", "EffectTarget": "Self" },
+  { "Id": 11, "Name": "Ingredient Finder", "Size": "M", "Color": "Blue", "EffectTarget": "Self" },
+  { "Id": 12, "Name": "Ingredient Finder", "Size": "S", "Color": "White", "EffectTarget": "Self" },
+  { "Id": 13, "Name": "Skill Trigger", "Size": "M", "Color": "Blue", "EffectTarget": "Self" },
+  { "Id": 14, "Name": "Skill Trigger", "Size": "S", "Color": "White", "EffectTarget": "Self" },
+  { "Id": 15, "Name": "Inventory Up", "Size": "L", "Color": "Blue", "EffectTarget": "Self" },
+  { "Id": 16, "Name": "Inventory Up", "Size": "M", "Color": "Blue", "EffectTarget": "Self" },
+  { "Id": 17, "Name": "Inventory Up", "Size": "S", "Color": "White", "EffectTarget": "Self" }
+]
